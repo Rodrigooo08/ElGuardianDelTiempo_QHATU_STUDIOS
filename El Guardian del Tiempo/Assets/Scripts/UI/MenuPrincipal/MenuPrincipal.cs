@@ -9,7 +9,7 @@ public class MenuPrincipal : MonoBehaviour
     {
         if (TransicionEscena.Instancia != null)
         {
-            TransicionEscena.Instancia.IniciarTransicion(SceneManager.GetActiveScene().buildIndex + 1);
+            TransicionEscena.Instancia.IniciarTransicion("Jugar");
         }
         else
         {

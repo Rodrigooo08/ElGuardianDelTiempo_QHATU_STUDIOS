@@ -1,19 +1,10 @@
 fileFormatVersion: 2
-guid: 4088b6a54c46c004f9e4cf32c4706dff
+guid: f9731c4a7537fc542badbf5f8646b7f4
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 302849432417658872
-    second: Jugar-B_0
-  - first:
-      213: 193867615918611408
-    second: Jugar-B_1
-  - first:
-      213: -7759195445686400724
-    second: Jugar-B_2
-  - first:
-      213: 7294279665922913950
-    second: Jugar-B_3
+      213: -7927424861637482912
+    second: Blank_Sheet_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -135,23 +126,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Jugar-B_0
+      name: Blank_Sheet_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 38
         y: 0
-        width: 295
-        height: 104
+        width: 944
+        height: 512
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8f7eea744ffe33400800000000000000
-      internalID: 302849432417658872
+      spriteID: 0666f72f6112cf190800000000000000
+      internalID: -7927424861637482912
       vertices: []
       indices: 
       edges: []
@@ -160,7 +151,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 68fbe49951a688644b0cb62987d558dc
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -170,10 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Jugar-B_0: 302849432417658872
-      Jugar-B_1: 193867615918611408
-      Jugar-B_2: -7759195445686400724
-      Jugar-B_3: 7294279665922913950
+      Blank_Sheet_0: -7927424861637482912
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
