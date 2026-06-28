@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 0516b53f4042247408a971532346e101
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8560249174379534771
+    second: Revolucion de Mayo_0
+  - first:
+      213: -7618152949672815613
+    second: Revolucion de Mayo_1
+  - first:
+      213: -8332551939774017659
+    second: Revolucion de Mayo_2
+  - first:
+      213: -3391713418703380295
+    second: Revolucion de Mayo_3
+  - first:
+      213: -2443034844525626270
+    second: Revolucion de Mayo_4
+  - first:
+      213: 6779390741525667761
+    second: Revolucion de Mayo_5
+  - first:
+      213: 2334214314490833646
+    second: Revolucion de Mayo_6
+  - first:
+      213: -6948633597138115210
+    second: Revolucion de Mayo_7
+  - first:
+      213: -2502803402134474090
+    second: Revolucion de Mayo_8
+  - first:
+      213: 180404559119072727
+    second: Revolucion de Mayo_9
+  - first:
+      213: -8697660920043300377
+    second: Revolucion de Mayo_10
+  - first:
+      213: -8837585266534424727
+    second: Revolucion de Mayo_11
+  - first:
+      213: -3419833261079506989
+    second: Revolucion de Mayo_12
+  - first:
+      213: -718348992577199497
+    second: Revolucion de Mayo_13
+  - first:
+      213: -2949370567402107538
+    second: Revolucion de Mayo_14
+  - first:
+      213: 5021614775477353176
+    second: Revolucion de Mayo_15
+  - first:
+      213: -7901800484888894231
+    second: Revolucion de Mayo_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Revolucion de Mayo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b919bb154d1cc670800000000000000
+      internalID: 8560249174379534771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revolucion de Mayo_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 17
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30458264142e64690800000000000000
+      internalID: -7618152949672815613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revolucion de Mayo_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 17
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f07459824dc5c80800000000000000
+      internalID: -8332551939774017659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revolucion de Mayo_3
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 18
+        width: 26
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b06242ad963ee0d0800000000000000
+      internalID: -3391713418703380295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revolucion de Mayo_4
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 66
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26cf52ea0c8981ed0800000000000000
+      internalID: -2443034844525626270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revolucion de Mayo_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 17
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf953ee5fb351e50800000000000000
+      internalID: 6779390741525667761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revolucion de Mayo_6
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 18
+        width: 47
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeaabd44d8bc46020800000000000000
+      internalID: 2334214314490833646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revolucion de Mayo_7
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 17
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675ec301f8e719f90800000000000000
+      internalID: -6948633597138115210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revolucion de Mayo_8
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 18
+        width: 68
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692b221f091444dd0800000000000000
+      internalID: -2502803402134474090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revolucion de Mayo_9
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 0
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd372e9dfce08200800000000000000
+      internalID: 180404559119072727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revolucion de Mayo_10
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 17
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e99504b973bb4780800000000000000
+      internalID: -8697660920043300377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revolucion de Mayo_11
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 17
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f5dfb06079a5580800000000000000
+      internalID: -8837585266534424727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revolucion de Mayo_12
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 18
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df4a42a4cf4a80d0800000000000000
+      internalID: -3419833261079506989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revolucion de Mayo_13
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 17
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7722da0b569e706f0800000000000000
+      internalID: -718348992577199497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revolucion de Mayo_14
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 18
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d410b681bb117d0800000000000000
+      internalID: -2949370567402107538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revolucion de Mayo_15
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 18
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da3e2b580c50b540800000000000000
+      internalID: 5021614775477353176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revolucion de Mayo_16
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 18
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e42034135a275290800000000000000
+      internalID: -7901800484888894231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Revolucion de Mayo_0: 8560249174379534771
+      Revolucion de Mayo_1: -7618152949672815613
+      Revolucion de Mayo_10: -8697660920043300377
+      Revolucion de Mayo_11: -8837585266534424727
+      Revolucion de Mayo_12: -3419833261079506989
+      Revolucion de Mayo_13: -718348992577199497
+      Revolucion de Mayo_14: -2949370567402107538
+      Revolucion de Mayo_15: 5021614775477353176
+      Revolucion de Mayo_16: -7901800484888894231
+      Revolucion de Mayo_2: -8332551939774017659
+      Revolucion de Mayo_3: -3391713418703380295
+      Revolucion de Mayo_4: -2443034844525626270
+      Revolucion de Mayo_5: 6779390741525667761
+      Revolucion de Mayo_6: 2334214314490833646
+      Revolucion de Mayo_7: -6948633597138115210
+      Revolucion de Mayo_8: -2502803402134474090
+      Revolucion de Mayo_9: 180404559119072727
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
