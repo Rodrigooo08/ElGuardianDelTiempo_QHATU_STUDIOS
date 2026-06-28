@@ -20,7 +20,7 @@ public class PlayerControler_001 : MonoBehaviour
     {
         float move = Input.GetAxis("Horizontal");
         rb.linearVelocity = new Vector2(move * speed, rb.linearVelocity.y);
-        Debug.Log("Valor move: " + move);
+        //Debug.Log("Valor move: " + move);
         // Animaciones
         animator.SetBool("isRunning", move != 0);
 
