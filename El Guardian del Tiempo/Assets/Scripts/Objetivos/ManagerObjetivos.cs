@@ -1,6 +1,7 @@
 using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
+using static UnityEditor.ShaderData;
 
 public class ManagerObjetivos : MonoBehaviour
 {
@@ -66,5 +67,17 @@ public class ManagerObjetivos : MonoBehaviour
     {
         if (panelObjetivos != null)
             panelObjetivos.SetActive(!panelObjetivos.activeSelf);
+    }
+
+    public void Pausar()
+    {
+        if (MenuPausa.Instancia.pausa)
+        {
+            MenuPausa.Instancia.Continuar();
+        }
+        else
+        {
+            MenuPausa.Instancia.Pausa();
+        }
     }
 }

@@ -7,7 +7,7 @@ public class MenuPausa : MonoBehaviour
 {
     public static MenuPausa Instancia { get; private set; }
 
-    private bool pausa = false;
+    public bool pausa = false;
     [SerializeField] private GameObject menuPausa;
 
     private void Awake()
@@ -82,7 +82,7 @@ public class MenuPausa : MonoBehaviour
         pausa = false;
         Time.timeScale = 1f;
         menuPausa.SetActive(false);
-        TransicionEscena.Instancia.IniciarTransicion(0);
+        TransicionEscena.Instancia.IniciarTransicion("MainMenu");
 
     }
 }

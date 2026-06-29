@@ -8,7 +8,7 @@ public class ManagerLevelCompleto : MonoBehaviour
 
     public void CargarNivelSiguiente(string nivelSiguiente)
     {
-        //TransicionEscena.Instancia.IniciarTransicion(nivelSiguiente);
-        SceneManager.LoadScene(nivelSiguiente);
+        TransicionEscena.Instancia.IniciarTransicion(nivelSiguiente);
+        //SceneManager.LoadScene(nivelSiguiente);
     }
 }
