@@ -9,7 +9,7 @@ public class MenuPrincipal : MonoBehaviour
     {
         if (TransicionEscena.Instancia != null)
         {
-            TransicionEscena.Instancia.IniciarTransicion("Jugar");
+            TransicionEscena.Instancia.IniciarTransicion("Nivel1");
         }
         else
         {
