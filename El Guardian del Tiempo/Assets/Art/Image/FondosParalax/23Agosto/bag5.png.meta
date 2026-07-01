@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 6f4dddd9dee768447bf65b75443ce5aa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7049887296402645459
+    second: bag5_0
+  - first:
+      213: -6549030073057291493
+    second: bag5_1
+  - first:
+      213: 4533474647673592864
+    second: bag5_2
+  - first:
+      213: -8961439412658958870
+    second: bag5_3
+  - first:
+      213: 1030296382365722161
+    second: bag5_4
+  - first:
+      213: 5323893044868310146
+    second: bag5_5
+  - first:
+      213: 1867755404328104609
+    second: bag5_6
+  - first:
+      213: -5973212168273421555
+    second: bag5_7
+  - first:
+      213: 5132879238117003573
+    second: bag5_8
+  - first:
+      213: 286125024757285611
+    second: bag5_9
+  - first:
+      213: 7508980788667882765
+    second: bag5_10
+  - first:
+      213: -1014024856759330298
+    second: bag5_11
+  - first:
+      213: -8855450341691441288
+    second: bag5_12
+  - first:
+      213: 3613027698571632995
+    second: bag5_13
+  - first:
+      213: 2136152588832329395
+    second: bag5_14
+  - first:
+      213: 3729577506742159219
+    second: bag5_15
+  - first:
+      213: -6484747203209606804
+    second: bag5_16
+  - first:
+      213: -7562382031030470915
+    second: bag5_17
+  - first:
+      213: 2019156611954033631
+    second: bag5_18
+  - first:
+      213: -3467563270354149842
+    second: bag5_19
+  - first:
+      213: 397191094428262362
+    second: bag5_20
+  - first:
+      213: 5016578484144903769
+    second: bag5_21
+  - first:
+      213: -1574167876002221527
+    second: bag5_22
+  - first:
+      213: 4251157831129331799
+    second: bag5_23
+  - first:
+      213: 3641228906754092831
+    second: bag5_24
+  - first:
+      213: 5419085226872296606
+    second: bag5_25
+  - first:
+      213: -5098427882570818345
+    second: bag5_26
+  - first:
+      213: -1460928660250635754
+    second: bag5_27
+  - first:
+      213: -1586031842567182211
+    second: bag5_28
+  - first:
+      213: 249057907217437403
+    second: bag5_29
+  - first:
+      213: -853208097746248854
+    second: bag5_30
+  - first:
+      213: -7117412764767575683
+    second: bag5_31
+  - first:
+      213: -3338034490262624437
+    second: bag5_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bag5_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 478
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e91671bd4c92e90800000000000000
+      internalID: -7049887296402645459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag5_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 474
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13d118c8db2d15a0800000000000000
+      internalID: -6549030073057291493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag5_2
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 479
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02cd2d43c232aee30800000000000000
+      internalID: 4533474647673592864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag5_3
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 442
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed074c755292a380800000000000000
+      internalID: -8961439412658958870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag5_4
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 429
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136674cd9195c4e00800000000000000
+      internalID: 1030296382365722161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag5_5
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 417
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2846c81648442e940800000000000000
+      internalID: 5323893044868310146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag5_6
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 418
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2fa4af4a99be910800000000000000
+      internalID: 1867755404328104609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag5_7
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 408
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b950e2e23ea1da0800000000000000
+      internalID: -5973212168273421555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag5_8
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 392
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53111fec876ab3740800000000000000
+      internalID: 5132879238117003573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag5_9
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 367
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2020ea13588f300800000000000000
+      internalID: 286125024757285611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag5_10
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 377
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d18c53e32453860800000000000000
+      internalID: 7508980788667882765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag5_11
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 370
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a917be3c57de1f0800000000000000
+      internalID: -1014024856759330298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag5_12
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 369
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87fbe5915de1b1580800000000000000
+      internalID: -8855450341691441288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag5_13
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 366
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36162099c8d042230800000000000000
+      internalID: 3613027698571632995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag5_14
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 366
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bec163367325ad10800000000000000
+      internalID: 2136152588832329395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag5_15
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 350
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37747a37bfe12c330800000000000000
+      internalID: 3729577506742159219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag5_16
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 333
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69cb7eb6cc8106a0800000000000000
+      internalID: -6484747203209606804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag5_17
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 338
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6b1a82c950d0790800000000000000
+      internalID: -7562382031030470915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag5_18
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 280
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3c6699d3c750c10800000000000000
+      internalID: 2019156611954033631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag5_19
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 271
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e595ad39db0efc0800000000000000
+      internalID: -3467563270354149842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag5_20
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 231
+        width: 81
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf585b223b138500800000000000000
+      internalID: 397191094428262362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag5_21
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 247
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95613576d877e9540800000000000000
+      internalID: 5016578484144903769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag5_22
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 243
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9227e0638ae672ae0800000000000000
+      internalID: -1574167876002221527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag5_23
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 237
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758759816852ffa30800000000000000
+      internalID: 4251157831129331799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag5_24
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 230
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f26fc066e388230800000000000000
+      internalID: 3641228906754092831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag5_25
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 213
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e945a436d45743b40800000000000000
+      internalID: 5419085226872296606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag5_26
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 210
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc5b6a7adebe39b0800000000000000
+      internalID: -5098427882570818345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag5_27
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 208
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612d293bf1db9bbe0800000000000000
+      internalID: -1460928660250635754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag5_28
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 202
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78235d31784df9e0800000000000000
+      internalID: -1586031842567182211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag5_29
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 193
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd29238d8d4d47300800000000000000
+      internalID: 249057907217437403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag5_30
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 184
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b195e61cbc824f0800000000000000
+      internalID: -853208097746248854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag5_31
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 175
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71a234dcced93d90800000000000000
+      internalID: -7117412764767575683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag5_32
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 135
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47e4e7115beca1d0800000000000000
+      internalID: -3338034490262624437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bag5_0: -7049887296402645459
+      bag5_1: -6549030073057291493
+      bag5_10: 7508980788667882765
+      bag5_11: -1014024856759330298
+      bag5_12: -8855450341691441288
+      bag5_13: 3613027698571632995
+      bag5_14: 2136152588832329395
+      bag5_15: 3729577506742159219
+      bag5_16: -6484747203209606804
+      bag5_17: -7562382031030470915
+      bag5_18: 2019156611954033631
+      bag5_19: -3467563270354149842
+      bag5_2: 4533474647673592864
+      bag5_20: 397191094428262362
+      bag5_21: 5016578484144903769
+      bag5_22: -1574167876002221527
+      bag5_23: 4251157831129331799
+      bag5_24: 3641228906754092831
+      bag5_25: 5419085226872296606
+      bag5_26: -5098427882570818345
+      bag5_27: -1460928660250635754
+      bag5_28: -1586031842567182211
+      bag5_29: 249057907217437403
+      bag5_3: -8961439412658958870
+      bag5_30: -853208097746248854
+      bag5_31: -7117412764767575683
+      bag5_32: -3338034490262624437
+      bag5_4: 1030296382365722161
+      bag5_5: 5323893044868310146
+      bag5_6: 1867755404328104609
+      bag5_7: -5973212168273421555
+      bag5_8: 5132879238117003573
+      bag5_9: 286125024757285611
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
