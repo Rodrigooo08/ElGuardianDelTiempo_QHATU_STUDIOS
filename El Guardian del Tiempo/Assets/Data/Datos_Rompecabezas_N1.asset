@@ -57,5 +57,8 @@ MonoBehaviour:
     - {x: 0.7, y: 0.6}
     - {x: 0.6, y: 1}
     - {x: 0.25, y: 1}
-  tituloDato: 
-  textoDato: 
+  tituloDato: 'Quienes estaban en la sala? '
+  textoDato: "El 22 de mayo de 1810 se invit\xF3 a unos 450 vecinos al Cabildo abierto
+    y asistieron alrededor de 250. Las decisiones quedaron en manos de los \"vecinos
+    principales\": las mujeres, los pueblos originarios y las personas esclavizadas
+    no tuvieron voz ni voto en esa sala."

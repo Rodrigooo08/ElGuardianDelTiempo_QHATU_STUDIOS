@@ -71,9 +71,11 @@ public class ControladorRompecabezas : MonoBehaviour
     public event System.Action Abandonado;
     public event System.Action<int> UsosAyudaCambiados;   // usos que quedan
     public event System.Action<bool> AyudaSugerida;       // true = que el botón brille
+    public event System.Action Cerrado;
 
     public string IdMinijuego => idMinijuego;
     public int UsosAyudaRestantes => usosAyudaRestantes;
+    public DatosRompecabezas Datos => datos;
 
     private readonly List<PiezaRompecabezas> piezas = new List<PiezaRompecabezas>();
 
@@ -318,6 +320,13 @@ public class ControladorRompecabezas : MonoBehaviour
             Abandonado?.Invoke();
         }
 
+        gameObject.SetActive(false);
+    }
+    // Pensado para el botón "Continuar" de la tarjeta, luego de completar el minijuego.
+    public void Cerrar()
+    {
+        piezaAgarrada = null;
+        Cerrado?.Invoke();
         gameObject.SetActive(false);
     }
 
