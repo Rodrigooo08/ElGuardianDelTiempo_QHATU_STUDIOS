@@ -1,9 +1,10 @@
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.InputSystem;
 
-// Paso 3c: fondo de pantalla, marco/silueta del tablero y botón de abandonar.
+// Paso 4: ayuda con silueta temporal y sugerencia por inactividad.
 public class ControladorRompecabezas : MonoBehaviour
 {
     [Header("Identificación")]
@@ -35,10 +36,16 @@ public class ControladorRompecabezas : MonoBehaviour
     [Tooltip("Cuánto se agranda la imagen de marco respecto al tablero, de cada lado.")]
     [SerializeField] private float extraImagenMarco = 0.4f;
 
-    [Header("Silueta guía")]
-    [SerializeField] private bool mostrarSilueta = true;
+    [Header("Ayuda")]
+    [Tooltip("Cuántas veces puede usar la ayuda el jugador.")]
+    [SerializeField] private int usosAyuda = 2;
+    [Tooltip("Segundos que la silueta se queda visible.")]
+    [SerializeField] private float duracionSilueta = 3.5f;
     [Range(0f, 1f)]
-    [SerializeField] private float transparenciaSilueta = 0.25f;
+    [Tooltip("Qué tan visible se ve la silueta (1 = opaca).")]
+    [SerializeField] private float transparenciaSilueta = 0.5f;
+    [Tooltip("Segundos sin tocar la pantalla para que el botón de ayuda empiece a brillar.")]
+    [SerializeField] private float tiempoInactividad = 15f;
 
     [Header("Cámara")]
     [Tooltip("Si queda vacía se usa la Main Camera.")]
@@ -62,8 +69,11 @@ public class ControladorRompecabezas : MonoBehaviour
     public event System.Action<int, int> PiezaEncajada;   // encajadas, total
     public event System.Action Completado;
     public event System.Action Abandonado;
+    public event System.Action<int> UsosAyudaCambiados;   // usos que quedan
+    public event System.Action<bool> AyudaSugerida;       // true = que el botón brille
 
     public string IdMinijuego => idMinijuego;
+    public int UsosAyudaRestantes => usosAyudaRestantes;
 
     private readonly List<PiezaRompecabezas> piezas = new List<PiezaRompecabezas>();
 
@@ -75,6 +85,20 @@ public class ControladorRompecabezas : MonoBehaviour
     private int encajadas;
     private bool completado;
 
+    // Ayuda
+    private int usosAyudaRestantes;
+    private float tiempoSinActividad;
+    private bool sugerenciaActiva;
+    private Coroutine rutinaSilueta;
+    private Mesh mallaSilueta;
+    private Color[] coloresSilueta;
+
+    private void Awake()
+    {
+        usosAyudaRestantes = usosAyuda;
+        coloresSilueta = new Color[4];
+    }
+
     // Si el minijuego se vuelve a activar después de abandonarlo, empieza de cero.
     private void OnEnable()
     {
@@ -82,6 +106,11 @@ public class ControladorRompecabezas : MonoBehaviour
         {
             Reiniciar();
         }
+    }
+
+    private void OnDisable()
+    {
+        DetenerSilueta();
     }
 
     private void Start()
@@ -122,6 +151,7 @@ public class ControladorRompecabezas : MonoBehaviour
             CrearMarco();
         }
 
+        CrearSilueta();
         CrearPiezas();
         DispersarPiezas();
     }
@@ -132,6 +162,8 @@ public class ControladorRompecabezas : MonoBehaviour
         {
             return;
         }
+
+        ActualizarInactividad();
 
         Pointer puntero = Pointer.current;
         if (puntero == null)
@@ -164,6 +196,113 @@ public class ControladorRompecabezas : MonoBehaviour
     private bool PunteroSobreInterfaz()
     {
         return EventSystem.current != null && EventSystem.current.IsPointerOverGameObject();
+    }
+
+    // ---------- Ayuda ----------
+
+    // Pensado para el botón "Ayuda": se conecta en el OnClick del botón.
+    public void UsarAyuda()
+    {
+        if (completado || mallaSilueta == null)
+        {
+            return;
+        }
+        // Sin usos, o con la silueta ya visible, no se hace nada ni se gasta un uso.
+        if (usosAyudaRestantes <= 0 || rutinaSilueta != null)
+        {
+            return;
+        }
+
+        usosAyudaRestantes--;
+        UsosAyudaCambiados?.Invoke(usosAyudaRestantes);
+
+        tiempoSinActividad = 0f;
+        EstablecerSugerencia(false);
+        rutinaSilueta = StartCoroutine(MostrarSilueta());
+    }
+
+    // Si el jugador no toca la pantalla durante un rato, el botón de ayuda empieza a brillar.
+    private void ActualizarInactividad()
+    {
+        Pointer puntero = Pointer.current;
+        bool hayActividad = piezaAgarrada != null || (puntero != null && puntero.press.isPressed);
+
+        if (hayActividad)
+        {
+            tiempoSinActividad = 0f;
+            EstablecerSugerencia(false);
+            return;
+        }
+
+        if (usosAyudaRestantes <= 0 || rutinaSilueta != null)
+        {
+            EstablecerSugerencia(false);
+            return;
+        }
+
+        tiempoSinActividad += Time.deltaTime;
+        if (tiempoSinActividad >= tiempoInactividad)
+        {
+            EstablecerSugerencia(true);
+        }
+    }
+
+    private void EstablecerSugerencia(bool activa)
+    {
+        if (sugerenciaActiva == activa)
+        {
+            return;
+        }
+
+        sugerenciaActiva = activa;
+        AyudaSugerida?.Invoke(activa);
+    }
+
+    // Una corrutina es una función que puede "pausarse" (yield) y seguir después.
+    // Acá: aparece la silueta, espera, y se desvanece.
+    private IEnumerator MostrarSilueta()
+    {
+        yield return Desvanecer(0f, transparenciaSilueta, 0.3f);
+        yield return new WaitForSeconds(duracionSilueta);
+        yield return Desvanecer(transparenciaSilueta, 0f, 0.5f);
+        rutinaSilueta = null;
+    }
+
+    private IEnumerator Desvanecer(float desde, float hasta, float duracion)
+    {
+        float transcurrido = 0f;
+        while (transcurrido < duracion)
+        {
+            transcurrido += Time.deltaTime;
+            EstablecerAlfaSilueta(Mathf.Lerp(desde, hasta, transcurrido / duracion));
+            yield return null;
+        }
+        EstablecerAlfaSilueta(hasta);
+    }
+
+    private void EstablecerAlfaSilueta(float alfa)
+    {
+        if (mallaSilueta == null)
+        {
+            return;
+        }
+
+        Color color = new Color(1f, 1f, 1f, alfa);
+        for (int i = 0; i < coloresSilueta.Length; i++)
+        {
+            coloresSilueta[i] = color;
+        }
+        mallaSilueta.colors = coloresSilueta;
+    }
+
+    private void DetenerSilueta()
+    {
+        if (rutinaSilueta != null)
+        {
+            StopCoroutine(rutinaSilueta);
+            rutinaSilueta = null;
+        }
+        EstablecerAlfaSilueta(0f);
     }
 
     // ---------- Abandonar ----------
@@ -276,14 +415,6 @@ public class ControladorRompecabezas : MonoBehaviour
         Material materialLiso = new Material(shader);
         CrearRectangulo(objetoMarco.transform, "FondoTablero", materialLiso, colorFondoMarco, -3);
 
-        if (mostrarSilueta)
-        {
-            Material materialSilueta = new Material(shader);
-            materialSilueta.mainTexture = texturaImagen;
-            Color colorSilueta = new Color(1f, 1f, 1f, transparenciaSilueta);
-            CrearRectangulo(objetoMarco.transform, "Silueta", materialSilueta, colorSilueta, -2);
-        }
-
         if (spriteMarco != null)
         {
             CrearMarcoConImagen(objetoMarco.transform);
@@ -294,8 +425,23 @@ public class ControladorRompecabezas : MonoBehaviour
         }
     }
 
+    // La silueta empieza invisible; solo se muestra al usar la ayuda.
+    private void CrearSilueta()
+    {
+        Shader shader = BuscarShaderSprites();
+        if (shader == null)
+        {
+            Debug.LogWarning("No se pudo crear la silueta: no se encontró un shader de sprites.", this);
+            return;
+        }
+
+        Material materialSilueta = new Material(shader);
+        materialSilueta.mainTexture = texturaImagen;
+        mallaSilueta = CrearRectangulo(transform, "Silueta", materialSilueta, new Color(1f, 1f, 1f, 0f), -2);
+    }
+
     // Rectángulo del tamaño del tablero, con un color por vértice (y textura si el material la tiene).
-    private void CrearRectangulo(Transform padre, string nombre, Material material, Color color, int orden)
+    private Mesh CrearRectangulo(Transform padre, string nombre, Material material, Color color, int orden)
     {
         float mitadX = tamanoTablero.x * 0.5f;
         float mitadY = tamanoTablero.y * 0.5f;
@@ -323,6 +469,8 @@ public class ControladorRompecabezas : MonoBehaviour
         MeshRenderer renderizador = objeto.AddComponent<MeshRenderer>();
         renderizador.sharedMaterial = material;
         renderizador.sortingOrder = orden;
+
+        return malla;
     }
 
     private void CrearBordeGenerado(Transform padre, Material material)
@@ -550,6 +698,12 @@ public class ControladorRompecabezas : MonoBehaviour
         encajadas = 0;
         completado = false;
 
+        DetenerSilueta();
+        usosAyudaRestantes = usosAyuda;
+        UsosAyudaCambiados?.Invoke(usosAyudaRestantes);
+        tiempoSinActividad = 0f;
+        EstablecerSugerencia(false);
+
         foreach (PiezaRompecabezas pieza in piezas)
         {
             pieza.Liberar();
@@ -653,6 +807,8 @@ public class ControladorRompecabezas : MonoBehaviour
         if (encajadas >= piezas.Count)
         {
             completado = true;
+            DetenerSilueta();
+            EstablecerSugerencia(false);
             Debug.Log("¡Rompecabezas completado!");
             Completado?.Invoke();
         }
