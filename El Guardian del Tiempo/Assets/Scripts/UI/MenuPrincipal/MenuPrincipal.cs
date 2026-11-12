@@ -9,7 +9,7 @@ public class MenuPrincipal : MonoBehaviour
     {
         if (TransicionEscena.Instancia != null)
         {
-            TransicionEscena.Instancia.IniciarTransicion("Prologo");
+            TransicionEscena.Instancia.IniciarTransicion("Scene_StoryBoard");
         }
         else
         {
