@@ -1,22 +1,44 @@
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.EventSystems;
 using UnityEngine.InputSystem;
 
-// Paso 3b: tamaño de tablero fijo, cámara ajustada y marco visible.
+// Paso 3c: fondo de pantalla, marco/silueta del tablero y botón de abandonar.
 public class ControladorRompecabezas : MonoBehaviour
 {
+    [Header("Identificación")]
+    [Tooltip("Identificador único de este minijuego (para el registro de progreso).")]
+    [SerializeField] private string idMinijuego = "N1_T1_Rompecabezas";
+
     [Header("Datos")]
     [SerializeField] private DatosRompecabezas datos;
 
-    [Header("Apariencia")]
+    [Header("Apariencia de las piezas")]
     [Tooltip("Material con shader de sprites de URP 2D. Si queda vacío, se busca uno automáticamente.")]
     [SerializeField] private Material materialBase;
 
+    [Header("Fondo de pantalla")]
+    [SerializeField] private bool mostrarFondoPantalla = true;
+    [Tooltip("Imagen opcional (debe estar importada como Sprite). Si queda vacía se usa un color liso.")]
+    [SerializeField] private Sprite spriteFondoPantalla;
+    [SerializeField] private Color colorFondoPantalla = new Color(0.25f, 0.18f, 0.1f, 1f);
+
     [Header("Marco del tablero")]
     [SerializeField] private bool mostrarMarco = true;
-    [SerializeField] private Color colorMarco = new Color(0.85f, 0.7f, 0.3f, 1f);
+    [Tooltip("Fondo oscuro translúcido detrás del tablero.")]
     [SerializeField] private Color colorFondoMarco = new Color(0.12f, 0.08f, 0.04f, 0.5f);
+    [Tooltip("Borde generado por código. Se usa si no hay imagen de marco.")]
+    [SerializeField] private Color colorMarco = new Color(0.85f, 0.7f, 0.3f, 1f);
     [SerializeField] private float grosorMarco = 0.1f;
+    [Tooltip("Imagen opcional de marco (debe estar importada como Sprite). Si se asigna, reemplaza el borde generado.")]
+    [SerializeField] private Sprite spriteMarco;
+    [Tooltip("Cuánto se agranda la imagen de marco respecto al tablero, de cada lado.")]
+    [SerializeField] private float extraImagenMarco = 0.4f;
+
+    [Header("Silueta guía")]
+    [SerializeField] private bool mostrarSilueta = true;
+    [Range(0f, 1f)]
+    [SerializeField] private float transparenciaSilueta = 0.25f;
 
     [Header("Cámara")]
     [Tooltip("Si queda vacía se usa la Main Camera.")]
@@ -36,18 +58,31 @@ public class ControladorRompecabezas : MonoBehaviour
     [Tooltip("Margen que las piezas deben respetar respecto al borde de la pantalla.")]
     [SerializeField] private float margenPantalla = 0.5f;
 
-    // Avisan a otros sistemas (sonido, interfaz, ficha) sin que este script los conozca.
+    // Avisan a otros sistemas (sonido, interfaz, ficha, nivel) sin que este script los conozca.
     public event System.Action<int, int> PiezaEncajada;   // encajadas, total
     public event System.Action Completado;
+    public event System.Action Abandonado;
+
+    public string IdMinijuego => idMinijuego;
 
     private readonly List<PiezaRompecabezas> piezas = new List<PiezaRompecabezas>();
 
     private Vector2 tamanoTablero;
+    private Texture2D texturaImagen;
     private PiezaRompecabezas piezaAgarrada;
     private Vector3 desplazamientoAgarre;
     private int ordenMaximo;
     private int encajadas;
     private bool completado;
+
+    // Si el minijuego se vuelve a activar después de abandonarlo, empieza de cero.
+    private void OnEnable()
+    {
+        if (piezas.Count > 0)
+        {
+            Reiniciar();
+        }
+    }
 
     private void Start()
     {
@@ -72,10 +107,15 @@ public class ControladorRompecabezas : MonoBehaviour
         }
 
         tamanoTablero = CalcularTamanoTablero();
+        texturaImagen = datos.Imagen != null ? datos.Imagen : CrearTexturaDePrueba();
 
         if (ajustarCamara && camaraJuego.orthographic)
         {
             AjustarCamara();
+        }
+        if (mostrarFondoPantalla)
+        {
+            CrearFondoPantalla();
         }
         if (mostrarMarco)
         {
@@ -103,6 +143,11 @@ public class ControladorRompecabezas : MonoBehaviour
         {
             if (puntero.press.wasPressedThisFrame)
             {
+                // Si el toque es sobre un botón de la interfaz, no se agarra ninguna pieza.
+                if (PunteroSobreInterfaz())
+                {
+                    return;
+                }
                 IntentarAgarrar(PuntoEnMundo(puntero.position.ReadValue()));
             }
         }
@@ -114,6 +159,27 @@ public class ControladorRompecabezas : MonoBehaviour
         {
             Soltar();
         }
+    }
+
+    private bool PunteroSobreInterfaz()
+    {
+        return EventSystem.current != null && EventSystem.current.IsPointerOverGameObject();
+    }
+
+    // ---------- Abandonar ----------
+
+    // Pensado para el botón "Atrás": se conecta en el OnClick del botón.
+    public void Abandonar()
+    {
+        piezaAgarrada = null;
+
+        if (!completado)
+        {
+            Debug.Log("Minijuego abandonado: " + idMinijuego);
+            Abandonado?.Invoke();
+        }
+
+        gameObject.SetActive(false);
     }
 
     // ---------- Tamaño del tablero y cámara ----------
@@ -151,7 +217,49 @@ public class ControladorRompecabezas : MonoBehaviour
         camaraJuego.orthographicSize = Mathf.Max(tamanoPorAlto, tamanoPorAncho);
     }
 
-    // ---------- Marco ----------
+    // ---------- Fondo de pantalla ----------
+
+    // Capa que cubre toda la vista de la cámara. Se queda detrás de todo.
+    private void CrearFondoPantalla()
+    {
+        if (!camaraJuego.orthographic)
+        {
+            return;
+        }
+
+        GameObject objetoFondo = new GameObject("FondoPantalla");
+        objetoFondo.transform.SetParent(transform, false);
+
+        SpriteRenderer renderizador = objetoFondo.AddComponent<SpriteRenderer>();
+        renderizador.sortingOrder = -10;
+
+        if (spriteFondoPantalla != null)
+        {
+            renderizador.sprite = spriteFondoPantalla;
+        }
+        else
+        {
+            Texture2D blanca = Texture2D.whiteTexture;
+            renderizador.sprite = Sprite.Create(
+                blanca,
+                new Rect(0f, 0f, blanca.width, blanca.height),
+                new Vector2(0.5f, 0.5f),
+                blanca.width);
+            renderizador.color = colorFondoPantalla;
+        }
+
+        // La imagen se agranda hasta cubrir toda la pantalla (sin dejar bordes vacíos).
+        float alto = camaraJuego.orthographicSize * 2f;
+        float ancho = alto * camaraJuego.aspect;
+        Vector2 tamanoSprite = renderizador.sprite.bounds.size;
+        float escala = Mathf.Max(ancho / tamanoSprite.x, alto / tamanoSprite.y) * 1.02f;
+
+        Vector3 centroCamara = camaraJuego.transform.position;
+        objetoFondo.transform.position = new Vector3(centroCamara.x, centroCamara.y, 0f);
+        objetoFondo.transform.localScale = new Vector3(escala, escala, 1f);
+    }
+
+    // ---------- Marco, silueta y fondo del tablero ----------
 
     private void CrearMarco()
     {
@@ -162,40 +270,68 @@ public class ControladorRompecabezas : MonoBehaviour
             return;
         }
 
-        Material materialMarco = new Material(shader);
-        float mitadX = tamanoTablero.x * 0.5f;
-        float mitadY = tamanoTablero.y * 0.5f;
-
         GameObject objetoMarco = new GameObject("Marco");
         objetoMarco.transform.SetParent(transform, false);
 
-        // Fondo translúcido (un rectángulo con color por vértice).
-        Mesh fondo = new Mesh();
-        fondo.name = "FondoMarco";
-        fondo.vertices = new Vector3[]
+        Material materialLiso = new Material(shader);
+        CrearRectangulo(objetoMarco.transform, "FondoTablero", materialLiso, colorFondoMarco, -3);
+
+        if (mostrarSilueta)
+        {
+            Material materialSilueta = new Material(shader);
+            materialSilueta.mainTexture = texturaImagen;
+            Color colorSilueta = new Color(1f, 1f, 1f, transparenciaSilueta);
+            CrearRectangulo(objetoMarco.transform, "Silueta", materialSilueta, colorSilueta, -2);
+        }
+
+        if (spriteMarco != null)
+        {
+            CrearMarcoConImagen(objetoMarco.transform);
+        }
+        else
+        {
+            CrearBordeGenerado(objetoMarco.transform, materialLiso);
+        }
+    }
+
+    // Rectángulo del tamaño del tablero, con un color por vértice (y textura si el material la tiene).
+    private void CrearRectangulo(Transform padre, string nombre, Material material, Color color, int orden)
+    {
+        float mitadX = tamanoTablero.x * 0.5f;
+        float mitadY = tamanoTablero.y * 0.5f;
+
+        Mesh malla = new Mesh();
+        malla.name = nombre;
+        malla.vertices = new Vector3[]
         {
             new Vector3(-mitadX, -mitadY, 0f),
             new Vector3(-mitadX,  mitadY, 0f),
             new Vector3( mitadX,  mitadY, 0f),
             new Vector3( mitadX, -mitadY, 0f)
         };
-        fondo.uv = new Vector2[] { Vector2.zero, Vector2.up, Vector2.one, Vector2.right };
-        fondo.colors = new Color[] { colorFondoMarco, colorFondoMarco, colorFondoMarco, colorFondoMarco };
-        fondo.triangles = new int[] { 0, 1, 2, 0, 2, 3 };
-        fondo.RecalculateBounds();
+        malla.uv = new Vector2[] { Vector2.zero, Vector2.up, Vector2.one, Vector2.right };
+        malla.colors = new Color[] { color, color, color, color };
+        malla.triangles = new int[] { 0, 1, 2, 0, 2, 3 };
+        malla.RecalculateBounds();
 
-        MeshFilter filtroFondo = objetoMarco.AddComponent<MeshFilter>();
-        filtroFondo.sharedMesh = fondo;
-        MeshRenderer renderizadorFondo = objetoMarco.AddComponent<MeshRenderer>();
-        renderizadorFondo.sharedMaterial = materialMarco;
-        renderizadorFondo.sortingOrder = -2;
+        GameObject objeto = new GameObject(nombre);
+        objeto.transform.SetParent(padre, false);
 
-        // Borde dorado alrededor del tablero.
+        MeshFilter filtro = objeto.AddComponent<MeshFilter>();
+        filtro.sharedMesh = malla;
+
+        MeshRenderer renderizador = objeto.AddComponent<MeshRenderer>();
+        renderizador.sharedMaterial = material;
+        renderizador.sortingOrder = orden;
+    }
+
+    private void CrearBordeGenerado(Transform padre, Material material)
+    {
         GameObject objetoBorde = new GameObject("Borde");
-        objetoBorde.transform.SetParent(objetoMarco.transform, false);
+        objetoBorde.transform.SetParent(padre, false);
 
-        float bordeX = mitadX + grosorMarco * 0.5f;
-        float bordeY = mitadY + grosorMarco * 0.5f;
+        float bordeX = tamanoTablero.x * 0.5f + grosorMarco * 0.5f;
+        float bordeY = tamanoTablero.y * 0.5f + grosorMarco * 0.5f;
 
         LineRenderer linea = objetoBorde.AddComponent<LineRenderer>();
         linea.useWorldSpace = false;
@@ -213,8 +349,24 @@ public class ControladorRompecabezas : MonoBehaviour
         linea.startColor = colorMarco;
         linea.endColor = colorMarco;
         linea.numCornerVertices = 2;
-        linea.sharedMaterial = materialMarco;
+        linea.sharedMaterial = material;
         linea.sortingOrder = -1;
+    }
+
+    // Marco dibujado por el diseñador: se estira para rodear el tablero.
+    private void CrearMarcoConImagen(Transform padre)
+    {
+        GameObject objetoImagen = new GameObject("MarcoImagen");
+        objetoImagen.transform.SetParent(padre, false);
+
+        SpriteRenderer renderizador = objetoImagen.AddComponent<SpriteRenderer>();
+        renderizador.sprite = spriteMarco;
+        renderizador.sortingOrder = -1;
+
+        Vector2 tamanoSprite = spriteMarco.bounds.size;
+        float anchoFinal = tamanoTablero.x + extraImagenMarco * 2f;
+        float altoFinal = tamanoTablero.y + extraImagenMarco * 2f;
+        objetoImagen.transform.localScale = new Vector3(anchoFinal / tamanoSprite.x, altoFinal / tamanoSprite.y, 1f);
     }
 
     private Shader BuscarShaderSprites()
@@ -324,7 +476,7 @@ public class ControladorRompecabezas : MonoBehaviour
             material = new Material(shader);
         }
 
-        material.mainTexture = datos.Imagen != null ? datos.Imagen : CrearTexturaDePrueba();
+        material.mainTexture = texturaImagen;
         return material;
     }
 
