@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5925b5b6dae0674eabd883ed266edc9, type: 3}
+  m_Name: Datos_Reparto_N1
+  m_EditorClassIdentifier: Assembly-CSharp::DatosReparto
+  idMinijuego: N1_T3_Reparto
+  entregasParaCompletar: 12
+  segundosVisibleInicial: 3
+  segundosVisibleFinal: 1.8
+  segundosEntreAparicionesInicial: 1.5
+  segundosEntreAparicionesFinal: 0.7
+  maximoSimultaneosInicial: 1
+  maximoSimultaneosFinal: 3
+  vecinos:
+  - nombre: "Vecina del balc\xF3n"
+    objetoQuePide: 0
+    imagen: {fileID: 0}
+  - nombre: Comerciante
+    objetoQuePide: 1
+    imagen: {fileID: 0}
+  - nombre: Vecino de la esquina
+    objetoQuePide: 0
+    imagen: {fileID: 0}
+  - nombre: Aguatero
+    objetoQuePide: 1
+    imagen: {fileID: 0}
+  - nombre: Criolla con mantilla
+    objetoQuePide: 0
+    imagen: {fileID: 0}
+  - nombre: Pulpero
+    objetoQuePide: 1
+    imagen: {fileID: 0}
+  tituloDato: "Una semana que cambi\xF3 todo"
+  textoDato: "Entre el 18 y el 25 de mayo de 1810, Buenos Aires vivi\xF3 d\xEDas
+    de noticias, reuniones y charlas en la calle. Los vecinos hablaban, opinaban
+    y esperaban novedades, hasta que el 25 se form\xF3 la Primera Junta. [BORRADOR:
+    validar con la c\xE1tedra]"
