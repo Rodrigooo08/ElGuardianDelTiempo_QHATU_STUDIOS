@@ -59,7 +59,15 @@ public class ManagerDialogo : MonoBehaviour
     }
     private void LoadNextScene()
     {
-        SceneManager.LoadScene(nextSceneName);
+        //SceneManager.LoadScene(nextSceneName);
+        if (TransicionEscena.Instancia != null)
+        {
+            TransicionEscena.Instancia.IniciarTransicion(nextSceneName);
+        }
+        else
+        {
+            Debug.LogError("TransicionEscena no está inicializado. Asegúrate de que el objeto está presente en la escena.");
+        }
     }
 
     public void SkipScene()
