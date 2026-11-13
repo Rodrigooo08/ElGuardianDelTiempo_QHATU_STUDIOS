@@ -12,8 +12,44 @@ MonoBehaviour:
   m_Script: {fileID: 0}
   m_Name: Datos_Memoria_N1
   m_EditorClassIdentifier: Assembly-CSharp::DatosMemoria
-  reverso: {fileID: 0}
-  cartas: []
+  reverso: {fileID: 21300000, guid: f5c5b2462fc757347a63c906a660a3c0, type: 3}
+  cartas:
+  - id: saavedra
+    integrantes:
+    - nombre: Cornelio Saavedra
+      cargo: Presidente de la Junta
+    imagen: {fileID: 0}
+  - id: belgrano
+    integrantes:
+    - nombre: Manuel Belgrano
+      cargo: Vocal
+    imagen: {fileID: 0}
+  - id: castelli
+    integrantes:
+    - nombre: Juan Jose Castelli
+      cargo: Vocal
+    imagen: {fileID: 0}
+  - id: moreno_paso
+    integrantes:
+    - nombre: Mariano Moreno
+      cargo: Secretario
+    - nombre: Juan Jose Paso
+      cargo: Secretario
+    imagen: {fileID: 0}
+  - id: azcuenaga_alberti
+    integrantes:
+    - nombre: Miguel de Azcuenaga
+      cargo: Vocal
+    - nombre: Manuel Alberti
+      cargo: Vocal
+    imagen: {fileID: 0}
+  - id: matheu_larrea
+    integrantes:
+    - nombre: Domingo Matheu
+      cargo: Vocal
+    - nombre: Juan Larrea
+      cargo: Vocal
+    imagen: {fileID: 0}
   tituloDato: La Primera Junta
   textoDato: 'El 25 de mayo de 1810 se formo en Buenos Aires la Primera Junta, el
     primer gobierno patrio. La integraron nueve personas: un presidente, seis vocales
