@@ -332,6 +332,81 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 212403372}
   m_CullTransparentMesh: 1
+--- !u!1 &339667407
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 339667408}
+  - component: {fileID: 339667410}
+  - component: {fileID: 339667409}
+  m_Layer: 5
+  m_Name: Image_Story
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &339667408
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 339667407}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1008581066}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 40}
+  m_SizeDelta: {x: 2233.1592, y: 1005.8624}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &339667409
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 339667407}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 0}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &339667410
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 339667407}
+  m_CullTransparentMesh: 1
 --- !u!1 &399023263
 GameObject:
   m_ObjectHideFlags: 0
@@ -599,12 +674,13 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 339667408}
   m_Father: {fileID: 212403373}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0.0050201, y: -0.0039482}
   m_SizeDelta: {x: 2960, y: 1440}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1008581067
@@ -627,7 +703,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: -7096776108434500824, guid: 61511039f66d9ae47be34ec22e93a69b, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -690,16 +766,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ManagerDialogo
   storyImages:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: -2646983701462968707, guid: 501c005f819177a41b83c296e9a0d627, type: 3}
+  - {fileID: -6795224924747661678, guid: 206f30d45c391c14b8001734d70d59cd, type: 3}
+  - {fileID: -4407939378682673646, guid: 0d8b0596e34f59f4caa8812161a6413e, type: 3}
+  - {fileID: -2570519009426005855, guid: fca53e2051f413b499bf9a1473c9001a, type: 3}
+  - {fileID: 9016533573215361329, guid: 436a572b897d22b419457fd8b9694d25, type: 3}
+  - {fileID: -5783048857916678176, guid: 32ff9e7c11c7fae46b8699367849fc01, type: 3}
+  - {fileID: 5007928811233310313, guid: d3ba2a5c499b00240a00c41cfd635ffd, type: 3}
+  - {fileID: 7209845557650782722, guid: a070043c4fcb85d4792e11d368967e8f, type: 3}
+  - {fileID: -8008983683591498579, guid: 7dea9300572a63b4183834a0722a5b76, type: 3}
+  - {fileID: 3798565082302618426, guid: c6416ed770230114fb344e50d4209929, type: 3}
   narrationTexts:
   - En Jujuy, cada fecha patria es una fiesta de banderas y recuerdos... aunque pocos
     se detienen a pensar en quienes la hicieron posible.
@@ -719,7 +795,7 @@ MonoBehaviour:
     vac\xEDo."
   - "Recupera los fragmentos de memoria, devuelve a cada h\xE9roe su lugar y rescata
     las historias que nadie cont\xF3."
-  backgroundImage: {fileID: 1008581067}
+  backgroundImage: {fileID: 339667409}
   narrationTMP: {fileID: 125234762}
   imageDuration: 7
   nextSceneName: Scene_Tutorial
@@ -987,7 +1063,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 77.22781, y: -499.65106}
+  m_AnchoredPosition: {x: 33, y: -553}
   m_SizeDelta: {x: 1896.9349, y: 288.5365}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1519906378
@@ -1079,7 +1155,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 0.392}
+  m_Color: {r: 1, g: 1, b: 1, a: 0}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
