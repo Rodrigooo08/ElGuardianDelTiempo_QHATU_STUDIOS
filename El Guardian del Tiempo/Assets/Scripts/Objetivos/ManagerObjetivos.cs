@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
-
+using static UnityEditor.ShaderData;
 
 public class ManagerObjetivos : MonoBehaviour
 {
@@ -56,11 +56,11 @@ public class ManagerObjetivos : MonoBehaviour
         bool todosCumplidos = partesObjetivos.TrueForAll(m => m.cumplido);
         if (salidaFinal != null)
             salidaFinal.SetActive(todosCumplidos);
-        /*if (todosCumplidos)
+        if (todosCumplidos)
         {
             // Desenparentar de la cámara
             salidaFinal.transform.SetParent(null);
-        }*/
+        }
     }
     //funcion para el boton, muestra y oculta el panel de objetivos
     public void TogglePanelObjetivos()
