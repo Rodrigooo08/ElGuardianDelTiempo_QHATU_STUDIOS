@@ -1,0 +1,3214 @@
+fileFormatVersion: 2
+guid: 9ab546f0ee7b72e44bb2ddbb45d4e7b2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -379122843044160088
+    second: Environment_zona1_SF_0
+  - first:
+      213: 133313994900679927
+    second: Environment_zona1_SF_1
+  - first:
+      213: 826236223416126670
+    second: Environment_zona1_SF_2
+  - first:
+      213: -1886049745169144917
+    second: Environment_zona1_SF_3
+  - first:
+      213: 4272549140675356566
+    second: Environment_zona1_SF_4
+  - first:
+      213: -4111719458157360301
+    second: Environment_zona1_SF_5
+  - first:
+      213: -4092899773048380980
+    second: Environment_zona1_SF_6
+  - first:
+      213: 8895578954831683373
+    second: Environment_zona1_SF_7
+  - first:
+      213: 4434768356748889882
+    second: Environment_zona1_SF_8
+  - first:
+      213: -9169221377877306848
+    second: Environment_zona1_SF_9
+  - first:
+      213: -7048408287634657428
+    second: Environment_zona1_SF_10
+  - first:
+      213: -1342524667978099036
+    second: Environment_zona1_SF_11
+  - first:
+      213: 5807828047131557178
+    second: Environment_zona1_SF_12
+  - first:
+      213: 3963870691752158936
+    second: Environment_zona1_SF_13
+  - first:
+      213: 8960420554267970978
+    second: Environment_zona1_SF_14
+  - first:
+      213: -818224542612836484
+    second: Environment_zona1_SF_15
+  - first:
+      213: -376930766132258252
+    second: Environment_zona1_SF_16
+  - first:
+      213: -7251924941458297250
+    second: Environment_zona1_SF_17
+  - first:
+      213: -207324057358823152
+    second: Environment_zona1_SF_18
+  - first:
+      213: 4525896161904787921
+    second: Environment_zona1_SF_19
+  - first:
+      213: -9030899281995150943
+    second: Environment_zona1_SF_20
+  - first:
+      213: -3874633143558347467
+    second: Environment_zona1_SF_21
+  - first:
+      213: -4307950340054995914
+    second: Environment_zona1_SF_22
+  - first:
+      213: -3305256465575493309
+    second: Environment_zona1_SF_23
+  - first:
+      213: -7334568637331940902
+    second: Environment_zona1_SF_24
+  - first:
+      213: 7225828347722855783
+    second: Environment_zona1_SF_25
+  - first:
+      213: -2643753784642126258
+    second: Environment_zona1_SF_26
+  - first:
+      213: -1631235825904727211
+    second: Environment_zona1_SF_27
+  - first:
+      213: 7778331369363621325
+    second: Environment_zona1_SF_28
+  - first:
+      213: 521997430598981089
+    second: Environment_zona1_SF_29
+  - first:
+      213: -6684348795662883229
+    second: Environment_zona1_SF_30
+  - first:
+      213: 5939442384643952933
+    second: Environment_zona1_SF_31
+  - first:
+      213: -1902003372563219632
+    second: Environment_zona1_SF_32
+  - first:
+      213: 73167979432191670
+    second: Environment_zona1_SF_33
+  - first:
+      213: -185606830368731723
+    second: Environment_zona1_SF_34
+  - first:
+      213: -186820021272875389
+    second: Environment_zona1_SF_35
+  - first:
+      213: 5692951257622599834
+    second: Environment_zona1_SF_36
+  - first:
+      213: 3860516411340454897
+    second: Environment_zona1_SF_37
+  - first:
+      213: 2814065939074820461
+    second: Environment_zona1_SF_38
+  - first:
+      213: -8649011212236499360
+    second: Environment_zona1_SF_39
+  - first:
+      213: -8107190092768183920
+    second: Environment_zona1_SF_40
+  - first:
+      213: 3453437926743580998
+    second: Environment_zona1_SF_41
+  - first:
+      213: 6064006958542528557
+    second: Environment_zona1_SF_42
+  - first:
+      213: 6520734624999988589
+    second: Environment_zona1_SF_43
+  - first:
+      213: 27245195738256171
+    second: Environment_zona1_SF_44
+  - first:
+      213: -5276834140011033862
+    second: Environment_zona1_SF_45
+  - first:
+      213: -253636776210831862
+    second: Environment_zona1_SF_46
+  - first:
+      213: -2701939077638869327
+    second: Environment_zona1_SF_47
+  - first:
+      213: 40021480495302742
+    second: Environment_zona1_SF_48
+  - first:
+      213: 535438411741621988
+    second: Environment_zona1_SF_49
+  - first:
+      213: 5241932444926361126
+    second: Environment_zona1_SF_50
+  - first:
+      213: 369852474058277934
+    second: Environment_zona1_SF_51
+  - first:
+      213: 2075269871776652449
+    second: Environment_zona1_SF_52
+  - first:
+      213: 3200847568602629744
+    second: Environment_zona1_SF_53
+  - first:
+      213: 5331833383577251559
+    second: Environment_zona1_SF_54
+  - first:
+      213: 4118941610413913949
+    second: Environment_zona1_SF_55
+  - first:
+      213: -5072362743452775954
+    second: Environment_zona1_SF_56
+  - first:
+      213: 3265035207025343412
+    second: Environment_zona1_SF_57
+  - first:
+      213: -3439822186715270144
+    second: Environment_zona1_SF_58
+  - first:
+      213: -3295870926717602626
+    second: Environment_zona1_SF_59
+  - first:
+      213: 2006534530037794479
+    second: Environment_zona1_SF_60
+  - first:
+      213: -8651734166957660542
+    second: Environment_zona1_SF_61
+  - first:
+      213: -4077155141018785311
+    second: Environment_zona1_SF_62
+  - first:
+      213: 5641750685625490056
+    second: Environment_zona1_SF_63
+  - first:
+      213: 4750972486615029497
+    second: Environment_zona1_SF_64
+  - first:
+      213: 3567607273148824641
+    second: Environment_zona1_SF_65
+  - first:
+      213: 50006210811355750
+    second: Environment_zona1_SF_66
+  - first:
+      213: 3107754266733734818
+    second: Environment_zona1_SF_67
+  - first:
+      213: 5394589860535641933
+    second: Environment_zona1_SF_68
+  - first:
+      213: 5791028233416917032
+    second: Environment_zona1_SF_69
+  - first:
+      213: -103779536607999651
+    second: Environment_zona1_SF_70
+  - first:
+      213: -9045667331700969974
+    second: Environment_zona1_SF_71
+  - first:
+      213: 3785001223390772036
+    second: Environment_zona1_SF_72
+  - first:
+      213: -3158767978241464217
+    second: Environment_zona1_SF_73
+  - first:
+      213: 2115940358386331661
+    second: Environment_zona1_SF_74
+  - first:
+      213: -6142807856883574960
+    second: Environment_zona1_SF_75
+  - first:
+      213: 4076158827713456638
+    second: Environment_zona1_SF_76
+  - first:
+      213: -7631496009133207786
+    second: Environment_zona1_SF_77
+  - first:
+      213: -7141354143618037029
+    second: Environment_zona1_SF_78
+  - first:
+      213: -5523557156376585048
+    second: Environment_zona1_SF_79
+  - first:
+      213: 8716118487550854820
+    second: Environment_zona1_SF_80
+  - first:
+      213: -1314497417796296245
+    second: Environment_zona1_SF_81
+  - first:
+      213: -3307657301474590284
+    second: Environment_zona1_SF_82
+  - first:
+      213: -1627601045636464564
+    second: Environment_zona1_SF_83
+  - first:
+      213: 1939822922399356102
+    second: Environment_zona1_SF_84
+  - first:
+      213: 1945600101397707343
+    second: Environment_zona1_SF_85
+  - first:
+      213: -8647670659217289753
+    second: Environment_zona1_SF_86
+  - first:
+      213: 4069946792875319735
+    second: Environment_zona1_SF_87
+  - first:
+      213: -9086880783978123011
+    second: Environment_zona1_SF_88
+  - first:
+      213: 5639578895614619590
+    second: Environment_zona1_SF_89
+  - first:
+      213: -1406229909546074367
+    second: Environment_zona1_SF_90
+  - first:
+      213: -571890994485013848
+    second: Environment_zona1_SF_91
+  - first:
+      213: 7132258031114129817
+    second: Environment_zona1_SF_92
+  - first:
+      213: -148580211737905188
+    second: Environment_zona1_SF_93
+  - first:
+      213: 2025756272241694747
+    second: Environment_zona1_SF_94
+  - first:
+      213: -239536244435174867
+    second: Environment_zona1_SF_95
+  - first:
+      213: -5859276234748089433
+    second: Environment_zona1_SF_96
+  - first:
+      213: 2877304471447541995
+    second: Environment_zona1_SF_97
+  - first:
+      213: -8851444257347500455
+    second: Environment_zona1_SF_98
+  - first:
+      213: -6973490029194174904
+    second: Environment_zona1_SF_99
+  - first:
+      213: -125372495131163567
+    second: Environment_zona1_SF_100
+  - first:
+      213: -1166577964920012543
+    second: Environment_zona1_SF_101
+  - first:
+      213: 3093181898387452337
+    second: Environment_zona1_SF_102
+  - first:
+      213: -8773641637914571859
+    second: Environment_zona1_SF_103
+  - first:
+      213: 4827325299906174182
+    second: Environment_zona1_SF_104
+  - first:
+      213: 6346069295385566553
+    second: Environment_zona1_SF_105
+  - first:
+      213: -7897778825713357818
+    second: Environment_zona1_SF_106
+  - first:
+      213: 1627390014538821550
+    second: Environment_zona1_SF_107
+  - first:
+      213: 6818194199391010208
+    second: Environment_zona1_SF_108
+  - first:
+      213: 712124629042293171
+    second: Environment_zona1_SF_109
+  - first:
+      213: -7634749288648749474
+    second: Environment_zona1_SF_110
+  - first:
+      213: -4311877644922236005
+    second: Environment_zona1_SF_111
+  - first:
+      213: -8660660969871133552
+    second: Environment_zona1_SF_112
+  - first:
+      213: 6568892952383522230
+    second: Environment_zona1_SF_113
+  - first:
+      213: -5092214009837637336
+    second: Environment_zona1_SF_114
+  - first:
+      213: 9154530244385197666
+    second: Environment_zona1_SF_115
+  - first:
+      213: 9052767298827916776
+    second: Environment_zona1_SF_116
+  - first:
+      213: 7426253268788846465
+    second: Environment_zona1_SF_117
+  - first:
+      213: 9054599174289107210
+    second: Environment_zona1_SF_118
+  - first:
+      213: 4115073463556256907
+    second: Environment_zona1_SF_119
+  - first:
+      213: 5148222014152197784
+    second: Environment_zona1_SF_120
+  - first:
+      213: 4330181459771841274
+    second: Environment_zona1_SF_121
+  - first:
+      213: -5239297891963139169
+    second: Environment_zona1_SF_122
+  - first:
+      213: -7064824634860254541
+    second: Environment_zona1_SF_123
+  - first:
+      213: -4114870179953784050
+    second: Environment_zona1_SF_124
+  - first:
+      213: 8277889994771753158
+    second: Environment_zona1_SF_125
+  - first:
+      213: 6635497586245271034
+    second: Environment_zona1_SF_126
+  - first:
+      213: 1480862365007057019
+    second: Environment_zona1_SF_127
+  - first:
+      213: -3415534717219951090
+    second: Environment_zona1_SF_128
+  - first:
+      213: -7886648634721767729
+    second: Environment_zona1_SF_129
+  - first:
+      213: 3539736330102339693
+    second: Environment_zona1_SF_130
+  - first:
+      213: -2805217759008764613
+    second: Environment_zona1_SF_131
+  - first:
+      213: 1472834907417140864
+    second: Environment_zona1_SF_132
+  - first:
+      213: 6937827215931044422
+    second: Environment_zona1_SF_133
+  - first:
+      213: -7075501195846078690
+    second: Environment_zona1_SF_134
+  - first:
+      213: -564813516912517831
+    second: Environment_zona1_SF_135
+  - first:
+      213: -5996625188863891226
+    second: Environment_zona1_SF_136
+  - first:
+      213: -6543161451671693749
+    second: Environment_zona1_SF_137
+  - first:
+      213: 1754224791575637776
+    second: Environment_zona1_SF_138
+  - first:
+      213: -8218258267575819663
+    second: Environment_zona1_SF_139
+  - first:
+      213: -1961848894052259348
+    second: Environment_zona1_SF_140
+  - first:
+      213: 116302950365996528
+    second: Environment_zona1_SF_141
+  - first:
+      213: -5703635573681349308
+    second: Environment_zona1_SF_142
+  - first:
+      213: -6619896992293589915
+    second: Environment_zona1_SF_143
+  - first:
+      213: -1241111201344036166
+    second: Environment_zona1_SF_144
+  - first:
+      213: 2360308936222150577
+    second: Environment_zona1_SF_145
+  - first:
+      213: -2913502832054147586
+    second: Environment_zona1_SF_146
+  - first:
+      213: 4200624466245708133
+    second: Environment_zona1_SF_147
+  - first:
+      213: 7675855001632910909
+    second: Environment_zona1_SF_148
+  - first:
+      213: -1337522465464793506
+    second: Environment_zona1_SF_149
+  - first:
+      213: -7313481937996982809
+    second: Environment_zona1_SF_150
+  - first:
+      213: -1962240153955068169
+    second: Environment_zona1_SF_151
+  - first:
+      213: 6719484362753678373
+    second: Environment_zona1_SF_152
+  - first:
+      213: 5076854607821414568
+    second: Environment_zona1_SF_153
+  - first:
+      213: -5706643701852564964
+    second: Environment_zona1_SF_154
+  - first:
+      213: -5688504707043201342
+    second: Environment_zona1_SF_155
+  - first:
+      213: -4246357336318841291
+    second: Environment_zona1_SF_156
+  - first:
+      213: 8881542620249193864
+    second: Environment_zona1_SF_157
+  - first:
+      213: -1088552815142082448
+    second: Environment_zona1_SF_158
+  - first:
+      213: 4052887769463484992
+    second: Environment_zona1_SF_159
+  - first:
+      213: 8952104809556623296
+    second: Environment_zona1_SF_160
+  - first:
+      213: 4647218550293752272
+    second: Environment_zona1_SF_161
+  - first:
+      213: 4800546043565407295
+    second: Environment_zona1_SF_162
+  - first:
+      213: 8441426880478711770
+    second: Environment_zona1_SF_163
+  - first:
+      213: 7885523353016039018
+    second: Environment_zona1_SF_164
+  - first:
+      213: 2281643267489894985
+    second: Environment_zona1_SF_165
+  - first:
+      213: -8645793885667141919
+    second: Environment_zona1_SF_166
+  - first:
+      213: -1558894051684529754
+    second: Environment_zona1_SF_167
+  - first:
+      213: -3441527952298518150
+    second: Environment_zona1_SF_168
+  - first:
+      213: 681516127429600998
+    second: Environment_zona1_SF_169
+  - first:
+      213: 7263346638672233662
+    second: Environment_zona1_SF_170
+  - first:
+      213: -7647486136756121633
+    second: Environment_zona1_SF_171
+  - first:
+      213: -1647761470004534303
+    second: Environment_zona1_SF_172
+  - first:
+      213: 3742491280195142121
+    second: Environment_zona1_SF_173
+  - first:
+      213: 6663667233745993450
+    second: Environment_zona1_SF_174
+  - first:
+      213: 3328466589415238024
+    second: Environment_zona1_SF_175
+  - first:
+      213: 6061804568154019344
+    second: Environment_zona1_SF_176
+  - first:
+      213: 7739889440138857960
+    second: Environment_zona1_SF_177
+  - first:
+      213: -8603511888290965082
+    second: Environment_zona1_SF_178
+  - first:
+      213: -2114198453196492750
+    second: Environment_zona1_SF_179
+  - first:
+      213: -5445606499194028638
+    second: Environment_zona1_SF_180
+  - first:
+      213: -8119259972960131901
+    second: Environment_zona1_SF_181
+  - first:
+      213: -5833043258863302448
+    second: Environment_zona1_SF_182
+  - first:
+      213: 438426486869307040
+    second: Environment_zona1_SF_183
+  - first:
+      213: -7828654497982609115
+    second: Environment_zona1_SF_184
+  - first:
+      213: 2541714000993940424
+    second: Environment_zona1_SF_185
+  - first:
+      213: -455374897640265422
+    second: Environment_zona1_SF_186
+  - first:
+      213: -52714769728788064
+    second: Environment_zona1_SF_187
+  - first:
+      213: -1635836018328599803
+    second: Environment_zona1_SF_188
+  - first:
+      213: -5232912459880712332
+    second: Environment_zona1_SF_189
+  - first:
+      213: -6174681731923455797
+    second: Environment_zona1_SF_190
+  - first:
+      213: 5205130489270250477
+    second: Environment_zona1_SF_191
+  - first:
+      213: 5624088553408166781
+    second: Environment_zona1_SF_192
+  - first:
+      213: 7286085067799079690
+    second: Environment_zona1_SF_193
+  - first:
+      213: -3025981178231492707
+    second: Environment_zona1_SF_194
+  - first:
+      213: 5616959253295786228
+    second: Environment_zona1_SF_195
+  - first:
+      213: -8438400989876360454
+    second: Environment_zona1_SF_196
+  - first:
+      213: 8948444298319432342
+    second: Environment_zona1_SF_197
+  - first:
+      213: 42305897285369
+    second: Environment_zona1_SF_198
+  - first:
+      213: -4951106218276926192
+    second: Environment_zona1_SF_199
+  - first:
+      213: 5516329947482326862
+    second: Environment_zona1_SF_200
+  - first:
+      213: -5089135576249680774
+    second: Environment_zona1_SF_201
+  - first:
+      213: 549055112962916021
+    second: Environment_zona1_SF_202
+  - first:
+      213: -5136723939135698465
+    second: Environment_zona1_SF_203
+  - first:
+      213: -6285153051429822453
+    second: Environment_zona1_SF_204
+  - first:
+      213: -88646356824051947
+    second: Environment_zona1_SF_205
+  - first:
+      213: -1859070535421124709
+    second: Environment_zona1_SF_206
+  - first:
+      213: -897108618201558937
+    second: Environment_zona1_SF_207
+  - first:
+      213: 3637787099745559382
+    second: Environment_zona1_SF_208
+  - first:
+      213: 2737777040186260884
+    second: Environment_zona1_SF_209
+  - first:
+      213: 3929471658290044277
+    second: Environment_zona1_SF_210
+  - first:
+      213: 1722873368899233138
+    second: Environment_zona1_SF_211
+  - first:
+      213: -6548280481740026598
+    second: Environment_zona1_SF_212
+  - first:
+      213: 2878273423773465961
+    second: Environment_zona1_SF_213
+  - first:
+      213: 2280601380038731400
+    second: Environment_zona1_SF_214
+  - first:
+      213: 2130004283098655876
+    second: Environment_zona1_SF_215
+  - first:
+      213: -133829040284085202
+    second: Environment_zona1_SF_216
+  - first:
+      213: -6857363823614698530
+    second: Environment_zona1_SF_217
+  - first:
+      213: -2015350789303248173
+    second: Environment_zona1_SF_218
+  - first:
+      213: -1346068744930213122
+    second: Environment_zona1_SF_219
+  - first:
+      213: 186139856084175314
+    second: Environment_zona1_SF_220
+  - first:
+      213: -8679388245072449393
+    second: Environment_zona1_SF_221
+  - first:
+      213: -3454705128728979411
+    second: Environment_zona1_SF_222
+  - first:
+      213: 8911001800539002011
+    second: Environment_zona1_SF_223
+  - first:
+      213: -964388598405225873
+    second: Environment_zona1_SF_224
+  - first:
+      213: -1740237453781369717
+    second: Environment_zona1_SF_225
+  - first:
+      213: 9177763935206872904
+    second: Environment_zona1_SF_226
+  - first:
+      213: 1458998650618371308
+    second: Environment_zona1_SF_227
+  - first:
+      213: 2091074761940201226
+    second: Environment_zona1_SF_228
+  - first:
+      213: -2234195093992414829
+    second: Environment_zona1_SF_229
+  - first:
+      213: 6882315170139599265
+    second: Environment_zona1_SF_230
+  - first:
+      213: -1848233620170065464
+    second: Environment_zona1_SF_231
+  - first:
+      213: -900432277514463212
+    second: Environment_zona1_SF_232
+  - first:
+      213: 2054225398351176454
+    second: Environment_zona1_SF_233
+  - first:
+      213: 2875603711987857755
+    second: Environment_zona1_SF_234
+  - first:
+      213: -5484327299017326539
+    second: Environment_zona1_SF_235
+  - first:
+      213: 5775765525951554304
+    second: Environment_zona1_SF_236
+  - first:
+      213: 5457080435678168214
+    second: Environment_zona1_SF_237
+  - first:
+      213: -7446669871074709413
+    second: Environment_zona1_SF_238
+  - first:
+      213: -6644030278812141295
+    second: Environment_zona1_SF_239
+  - first:
+      213: 1387157975562996077
+    second: Environment_zona1_SF_240
+  - first:
+      213: 1644591406977283380
+    second: Environment_zona1_SF_241
+  - first:
+      213: 8972569675811481647
+    second: Environment_zona1_SF_242
+  - first:
+      213: 1573702576357567382
+    second: Environment_zona1_SF_243
+  - first:
+      213: -3465010451421598140
+    second: Environment_zona1_SF_244
+  - first:
+      213: 684448526028196705
+    second: Environment_zona1_SF_245
+  - first:
+      213: -2981293628785298650
+    second: Environment_zona1_SF_246
+  - first:
+      213: -5045697652997509310
+    second: Environment_zona1_SF_247
+  - first:
+      213: -3406618663239671919
+    second: Environment_zona1_SF_248
+  - first:
+      213: -6169962035127650810
+    second: Environment_zona1_SF_249
+  - first:
+      213: 7631607546151047844
+    second: Environment_zona1_SF_250
+  - first:
+      213: 7093260741799281986
+    second: Environment_zona1_SF_251
+  - first:
+      213: 2487135937375660144
+    second: Environment_zona1_SF_252
+  - first:
+      213: 4692535834053281052
+    second: Environment_zona1_SF_253
+  - first:
+      213: 3162884737028721200
+    second: Environment_zona1_SF_254
+  - first:
+      213: 6720024960487220830
+    second: Environment_zona1_SF_255
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Environment_zona1_SF_0
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 26
+        width: 38
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8addd1e68c51dbaf0800000000000000
+      internalID: -379122843044160088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_68
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 556
+        width: 92
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47a62a75ee6dda40800000000000000
+      internalID: 5394589860535641933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_69
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 632
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820c2110f7ddd5050800000000000000
+      internalID: 5791028233416917032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_70
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 632
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d598681bf0d4f8ef0800000000000000
+      internalID: -103779536607999651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_71
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 632
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0eab91ec75577280800000000000000
+      internalID: -9045667331700969974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_72
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 632
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b30a21f86078430800000000000000
+      internalID: 3785001223390772036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_73
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 632
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768e909724dc924d0800000000000000
+      internalID: -3158767978241464217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_75
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 633
+        width: 64
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057d9f6dccc50caa0800000000000000
+      internalID: -6142807856883574960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_76
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 633
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9eeed7bdc619830800000000000000
+      internalID: 4076158827713456638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_77
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 633
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61fcdc620da771690800000000000000
+      internalID: -7631496009133207786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_78
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 633
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda026e2e30d4ec90800000000000000
+      internalID: -7141354143618037029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_79
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 561
+        width: 227
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac5b9508026853b0800000000000000
+      internalID: -5523557156376585048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_80
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 562
+        width: 157
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a60fae959fd5f870800000000000000
+      internalID: 8716118487550854820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_81
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 557
+        width: 116
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc165122097f1cde0800000000000000
+      internalID: -1314497417796296245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_82
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 559
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b141e28537d812d0800000000000000
+      internalID: -3307657301474590284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_83
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 559
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40c8cee8799969e0800000000000000
+      internalID: -1627601045636464564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_84
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 559
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c416c89ba2abea10800000000000000
+      internalID: 1939822922399356102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_85
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 559
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a36c6ebf8200b10800000000000000
+      internalID: 1945600101397707343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_86
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 559
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed09ce4a5d4df780800000000000000
+      internalID: -8647670659217289753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_87
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 561
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1e21c6b0b5b7830800000000000000
+      internalID: 4069946792875319735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_88
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 561
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df039a2421ae4e180800000000000000
+      internalID: -9086880783978123011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_89
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 561
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf26e3302fc34e40800000000000000
+      internalID: 5639578895614619590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_90
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 561
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ff9f809511c7ce0800000000000000
+      internalID: -1406229909546074367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_91
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 529
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2d977ab2c3018f0800000000000000
+      internalID: -571890994485013848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_92
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 529
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9911cf614eedaf260800000000000000
+      internalID: 7132258031114129817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_93
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 529
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7b5baa51320fdf0800000000000000
+      internalID: -148580211737905188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_94
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 529
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b185c70c89eec1c10800000000000000
+      internalID: 2025756272241694747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_95
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 527
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a3c970e0ffcacf0800000000000000
+      internalID: -239536244435174867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_96
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 529
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aba3faee4bafaea0800000000000000
+      internalID: -5859276234748089433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_97
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 529
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be816431c2d3ee720800000000000000
+      internalID: 2877304471447541995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_98
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 529
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95681ab485a592580800000000000000
+      internalID: -8851444257347500455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_99
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 527
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e172df3cf293f90800000000000000
+      internalID: -6973490029194174904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_108
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 461
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad745000871f9e50800000000000000
+      internalID: 6818194199391010208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_109
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 461
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b96fddb399f1e900800000000000000
+      internalID: 712124629042293171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_110
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 461
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5eccecf8fbeb0690800000000000000
+      internalID: -7634749288648749474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_111
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 461
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93567390222924c0800000000000000
+      internalID: -4311877644922236005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_112
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 461
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094bdbaebb62fc780800000000000000
+      internalID: -8660660969871133552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_114
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 463
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8213c577652d459b0800000000000000
+      internalID: -5092214009837637336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_115
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 463
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e462621cc6b0f70800000000000000
+      internalID: 9154530244385197666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_116
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 473
+        width: 51
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e519e805e3e1ad70800000000000000
+      internalID: 9052767298827916776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_117
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 387
+        width: 148
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f1e32800a5f0760800000000000000
+      internalID: 7426253268788846465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_118
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 386
+        width: 111
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a092c07c9f568ad70800000000000000
+      internalID: 9054599174289107210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_119
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 392
+        width: 144
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8438e3338dab1930800000000000000
+      internalID: 4115073463556256907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_120
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 389
+        width: 175
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896436a35a8227740800000000000000
+      internalID: 5148222014152197784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_121
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 391
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afadeaa6815e71c30800000000000000
+      internalID: 4330181459771841274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_122
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 391
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b851583564a47b0800000000000000
+      internalID: -5239297891963139169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_123
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 391
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bac9b6fc63b4fd90800000000000000
+      internalID: -7064824634860254541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_124
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 391
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0bc1037f5b05e6c0800000000000000
+      internalID: -4114870179953784050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_125
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 391
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c861249719f0e270800000000000000
+      internalID: 8277889994771753158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_162
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 290
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c7f963137fe9240800000000000000
+      internalID: 4800546043565407295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_163
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 290
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf0e50f509f52570800000000000000
+      internalID: 8441426880478711770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_164
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 290
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a667194d5b10f6d60800000000000000
+      internalID: 7885523353016039018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_165
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 290
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94295ee86760aaf10800000000000000
+      internalID: 2281643267489894985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_166
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 290
+        width: 67
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6d093b448f30880800000000000000
+      internalID: -8645793885667141919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_167
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 290
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9cfde8e12bd5ae0800000000000000
+      internalID: -1558894051684529754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_168
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 297
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a795ba6bf8c3d30d0800000000000000
+      internalID: -3441527952298518150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_169
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 297
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6242c9e4b357900800000000000000
+      internalID: 681516127429600998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_170
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 297
+        width: 65
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb40696f8479cc460800000000000000
+      internalID: 7263346638672233662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_171
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 297
+        width: 65
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf4de170ebaed590800000000000000
+      internalID: -7647486136756121633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_185
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 226
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c371e5da6bf54320800000000000000
+      internalID: 2541714000993940424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_186
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 226
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239a58a71fe2ea9f0800000000000000
+      internalID: -455374897640265422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_187
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 226
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a926eb3238b44ff0800000000000000
+      internalID: -52714769728788064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_188
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 226
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5030cb0fec75c49e0800000000000000
+      internalID: -1635836018328599803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_189
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 226
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4773818c7d5f067b0800000000000000
+      internalID: -5232912459880712332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_190
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 226
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0db9ffdaf1f4aa0800000000000000
+      internalID: -6174681731923455797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_191
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 228
+        width: 119
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb228e1a965c3840800000000000000
+      internalID: 5205130489270250477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_192
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 277
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7bfb3bddb6cc0e40800000000000000
+      internalID: 5624088553408166781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_193
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 226
+        width: 60
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b217d04cf5d1560800000000000000
+      internalID: 7286085067799079690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_194
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 226
+        width: 39
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f6e76962e8106d0800000000000000
+      internalID: -3025981178231492707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_195
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 280
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8e9825ea273fd40800000000000000
+      internalID: 5616959253295786228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_196
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 280
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa6d1e1207c4ea80800000000000000
+      internalID: -8438400989876360454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_197
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 286
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a03bdada24f2c70800000000000000
+      internalID: 8948444298319432342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_198
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 286
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6cafb1a76200000800000000000000
+      internalID: 42305897285369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_199
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 285
+        width: 87
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d406660232a4bb0800000000000000
+      internalID: -4951106218276926192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_200
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 285
+        width: 85
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4788874cd0fd8c40800000000000000
+      internalID: 5516329947482326862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_201
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 226
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7cb5d32822cf59b0800000000000000
+      internalID: -5089135576249680774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_202
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 226
+        width: 63
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be344a57b2ae9700800000000000000
+      internalID: 549055112962916021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_203
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 262
+        width: 63
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9429afac0b6b8b0800000000000000
+      internalID: -5136723939135698465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_204
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 262
+        width: 63
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0020929996a6c8a0800000000000000
+      internalID: -6285153051429822453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_205
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 227
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51faedeab9015cef0800000000000000
+      internalID: -88646356824051947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_206
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 231
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f14d3a2314336e0800000000000000
+      internalID: -1859070535421124709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_207
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 232
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760972ff674dc83f0800000000000000
+      internalID: -897108618201558937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_208
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 228
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65325d8e7140c7230800000000000000
+      internalID: 3637787099745559382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_209
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 242
+        width: 87
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49db58276b98ef520800000000000000
+      internalID: 2737777040186260884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_210
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 230
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57dd75b67a9488630800000000000000
+      internalID: 3929471658290044277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_232
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 28
+        width: 468
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41854724d950183f0800000000000000
+      internalID: -900432277514463212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_243
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 28
+        width: 208
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69be8e5c72ae6d510800000000000000
+      internalID: 1573702576357567382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_244
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 28
+        width: 204
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44eeff35a5fc9efc0800000000000000
+      internalID: -3465010451421598140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_245
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 28
+        width: 107
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b43fcde46af7900800000000000000
+      internalID: 684448526028196705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_246
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 28
+        width: 60
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623fd1d7d3150a6d0800000000000000
+      internalID: -2981293628785298650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_247
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 28
+        width: 30
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24faf05c7b41af9b0800000000000000
+      internalID: -5045697652997509310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_254
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 36
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a0a1029e2d4eb20800000000000000
+      internalID: 3162884737028721200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona1_SF_255
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 41
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56699be813524d50800000000000000
+      internalID: 6720024960487220830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 694942df006dd0046a5f79e9498a7191
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Environment_zona1_SF_0: -379122843044160088
+      Environment_zona1_SF_1: 133313994900679927
+      Environment_zona1_SF_10: -7048408287634657428
+      Environment_zona1_SF_100: -125372495131163567
+      Environment_zona1_SF_101: -1166577964920012543
+      Environment_zona1_SF_102: 3093181898387452337
+      Environment_zona1_SF_103: -8773641637914571859
+      Environment_zona1_SF_104: 4827325299906174182
+      Environment_zona1_SF_105: 6346069295385566553
+      Environment_zona1_SF_106: -7897778825713357818
+      Environment_zona1_SF_107: 1627390014538821550
+      Environment_zona1_SF_108: 6818194199391010208
+      Environment_zona1_SF_109: 712124629042293171
+      Environment_zona1_SF_11: -1342524667978099036
+      Environment_zona1_SF_110: -7634749288648749474
+      Environment_zona1_SF_111: -4311877644922236005
+      Environment_zona1_SF_112: -8660660969871133552
+      Environment_zona1_SF_113: 6568892952383522230
+      Environment_zona1_SF_114: -5092214009837637336
+      Environment_zona1_SF_115: 9154530244385197666
+      Environment_zona1_SF_116: 9052767298827916776
+      Environment_zona1_SF_117: 7426253268788846465
+      Environment_zona1_SF_118: 9054599174289107210
+      Environment_zona1_SF_119: 4115073463556256907
+      Environment_zona1_SF_12: 5807828047131557178
+      Environment_zona1_SF_120: 5148222014152197784
+      Environment_zona1_SF_121: 4330181459771841274
+      Environment_zona1_SF_122: -5239297891963139169
+      Environment_zona1_SF_123: -7064824634860254541
+      Environment_zona1_SF_124: -4114870179953784050
+      Environment_zona1_SF_125: 8277889994771753158
+      Environment_zona1_SF_126: 6635497586245271034
+      Environment_zona1_SF_127: 1480862365007057019
+      Environment_zona1_SF_128: -3415534717219951090
+      Environment_zona1_SF_129: -7886648634721767729
+      Environment_zona1_SF_13: 3963870691752158936
+      Environment_zona1_SF_130: 3539736330102339693
+      Environment_zona1_SF_131: -2805217759008764613
+      Environment_zona1_SF_132: 1472834907417140864
+      Environment_zona1_SF_133: 6937827215931044422
+      Environment_zona1_SF_134: -7075501195846078690
+      Environment_zona1_SF_135: -564813516912517831
+      Environment_zona1_SF_136: -5996625188863891226
+      Environment_zona1_SF_137: -6543161451671693749
+      Environment_zona1_SF_138: 1754224791575637776
+      Environment_zona1_SF_139: -8218258267575819663
+      Environment_zona1_SF_14: 8960420554267970978
+      Environment_zona1_SF_140: -1961848894052259348
+      Environment_zona1_SF_141: 116302950365996528
+      Environment_zona1_SF_142: -5703635573681349308
+      Environment_zona1_SF_143: -6619896992293589915
+      Environment_zona1_SF_144: -1241111201344036166
+      Environment_zona1_SF_145: 2360308936222150577
+      Environment_zona1_SF_146: -2913502832054147586
+      Environment_zona1_SF_147: 4200624466245708133
+      Environment_zona1_SF_148: 7675855001632910909
+      Environment_zona1_SF_149: -1337522465464793506
+      Environment_zona1_SF_15: -818224542612836484
+      Environment_zona1_SF_150: -7313481937996982809
+      Environment_zona1_SF_151: -1962240153955068169
+      Environment_zona1_SF_152: 6719484362753678373
+      Environment_zona1_SF_153: 5076854607821414568
+      Environment_zona1_SF_154: -5706643701852564964
+      Environment_zona1_SF_155: -5688504707043201342
+      Environment_zona1_SF_156: -4246357336318841291
+      Environment_zona1_SF_157: 8881542620249193864
+      Environment_zona1_SF_158: -1088552815142082448
+      Environment_zona1_SF_159: 4052887769463484992
+      Environment_zona1_SF_16: -376930766132258252
+      Environment_zona1_SF_160: 8952104809556623296
+      Environment_zona1_SF_161: 4647218550293752272
+      Environment_zona1_SF_162: 4800546043565407295
+      Environment_zona1_SF_163: 8441426880478711770
+      Environment_zona1_SF_164: 7885523353016039018
+      Environment_zona1_SF_165: 2281643267489894985
+      Environment_zona1_SF_166: -8645793885667141919
+      Environment_zona1_SF_167: -1558894051684529754
+      Environment_zona1_SF_168: -3441527952298518150
+      Environment_zona1_SF_169: 681516127429600998
+      Environment_zona1_SF_17: -7251924941458297250
+      Environment_zona1_SF_170: 7263346638672233662
+      Environment_zona1_SF_171: -7647486136756121633
+      Environment_zona1_SF_172: -1647761470004534303
+      Environment_zona1_SF_173: 3742491280195142121
+      Environment_zona1_SF_174: 6663667233745993450
+      Environment_zona1_SF_175: 3328466589415238024
+      Environment_zona1_SF_176: 6061804568154019344
+      Environment_zona1_SF_177: 7739889440138857960
+      Environment_zona1_SF_178: -8603511888290965082
+      Environment_zona1_SF_179: -2114198453196492750
+      Environment_zona1_SF_18: -207324057358823152
+      Environment_zona1_SF_180: -5445606499194028638
+      Environment_zona1_SF_181: -8119259972960131901
+      Environment_zona1_SF_182: -5833043258863302448
+      Environment_zona1_SF_183: 438426486869307040
+      Environment_zona1_SF_184: -7828654497982609115
+      Environment_zona1_SF_185: 2541714000993940424
+      Environment_zona1_SF_186: -455374897640265422
+      Environment_zona1_SF_187: -52714769728788064
+      Environment_zona1_SF_188: -1635836018328599803
+      Environment_zona1_SF_189: -5232912459880712332
+      Environment_zona1_SF_19: 4525896161904787921
+      Environment_zona1_SF_190: -6174681731923455797
+      Environment_zona1_SF_191: 5205130489270250477
+      Environment_zona1_SF_192: 5624088553408166781
+      Environment_zona1_SF_193: 7286085067799079690
+      Environment_zona1_SF_194: -3025981178231492707
+      Environment_zona1_SF_195: 5616959253295786228
+      Environment_zona1_SF_196: -8438400989876360454
+      Environment_zona1_SF_197: 8948444298319432342
+      Environment_zona1_SF_198: 42305897285369
+      Environment_zona1_SF_199: -4951106218276926192
+      Environment_zona1_SF_2: 826236223416126670
+      Environment_zona1_SF_20: -9030899281995150943
+      Environment_zona1_SF_200: 5516329947482326862
+      Environment_zona1_SF_201: -5089135576249680774
+      Environment_zona1_SF_202: 549055112962916021
+      Environment_zona1_SF_203: -5136723939135698465
+      Environment_zona1_SF_204: -6285153051429822453
+      Environment_zona1_SF_205: -88646356824051947
+      Environment_zona1_SF_206: -1859070535421124709
+      Environment_zona1_SF_207: -897108618201558937
+      Environment_zona1_SF_208: 3637787099745559382
+      Environment_zona1_SF_209: 2737777040186260884
+      Environment_zona1_SF_21: -3874633143558347467
+      Environment_zona1_SF_210: 3929471658290044277
+      Environment_zona1_SF_211: 1722873368899233138
+      Environment_zona1_SF_212: -6548280481740026598
+      Environment_zona1_SF_213: 2878273423773465961
+      Environment_zona1_SF_214: 2280601380038731400
+      Environment_zona1_SF_215: 2130004283098655876
+      Environment_zona1_SF_216: -133829040284085202
+      Environment_zona1_SF_217: -6857363823614698530
+      Environment_zona1_SF_218: -2015350789303248173
+      Environment_zona1_SF_219: -1346068744930213122
+      Environment_zona1_SF_22: -4307950340054995914
+      Environment_zona1_SF_220: 186139856084175314
+      Environment_zona1_SF_221: -8679388245072449393
+      Environment_zona1_SF_222: -3454705128728979411
+      Environment_zona1_SF_223: 8911001800539002011
+      Environment_zona1_SF_224: -964388598405225873
+      Environment_zona1_SF_225: -1740237453781369717
+      Environment_zona1_SF_226: 9177763935206872904
+      Environment_zona1_SF_227: 1458998650618371308
+      Environment_zona1_SF_228: 2091074761940201226
+      Environment_zona1_SF_229: -2234195093992414829
+      Environment_zona1_SF_23: -3305256465575493309
+      Environment_zona1_SF_230: 6882315170139599265
+      Environment_zona1_SF_231: -1848233620170065464
+      Environment_zona1_SF_232: -900432277514463212
+      Environment_zona1_SF_233: 2054225398351176454
+      Environment_zona1_SF_234: 2875603711987857755
+      Environment_zona1_SF_235: -5484327299017326539
+      Environment_zona1_SF_236: 5775765525951554304
+      Environment_zona1_SF_237: 5457080435678168214
+      Environment_zona1_SF_238: -7446669871074709413
+      Environment_zona1_SF_239: -6644030278812141295
+      Environment_zona1_SF_24: -7334568637331940902
+      Environment_zona1_SF_240: 1387157975562996077
+      Environment_zona1_SF_241: 1644591406977283380
+      Environment_zona1_SF_242: 8972569675811481647
+      Environment_zona1_SF_243: 1573702576357567382
+      Environment_zona1_SF_244: -3465010451421598140
+      Environment_zona1_SF_245: 684448526028196705
+      Environment_zona1_SF_246: -2981293628785298650
+      Environment_zona1_SF_247: -5045697652997509310
+      Environment_zona1_SF_248: -3406618663239671919
+      Environment_zona1_SF_249: -6169962035127650810
+      Environment_zona1_SF_25: 7225828347722855783
+      Environment_zona1_SF_250: 7631607546151047844
+      Environment_zona1_SF_251: 7093260741799281986
+      Environment_zona1_SF_252: 2487135937375660144
+      Environment_zona1_SF_253: 4692535834053281052
+      Environment_zona1_SF_254: 3162884737028721200
+      Environment_zona1_SF_255: 6720024960487220830
+      Environment_zona1_SF_256: 612622881
+      Environment_zona1_SF_26: -2643753784642126258
+      Environment_zona1_SF_27: -1631235825904727211
+      Environment_zona1_SF_28: 7778331369363621325
+      Environment_zona1_SF_29: 521997430598981089
+      Environment_zona1_SF_3: -1886049745169144917
+      Environment_zona1_SF_30: -6684348795662883229
+      Environment_zona1_SF_31: 5939442384643952933
+      Environment_zona1_SF_32: -1902003372563219632
+      Environment_zona1_SF_33: 73167979432191670
+      Environment_zona1_SF_34: -185606830368731723
+      Environment_zona1_SF_35: -186820021272875389
+      Environment_zona1_SF_36: 5692951257622599834
+      Environment_zona1_SF_37: 3860516411340454897
+      Environment_zona1_SF_38: 2814065939074820461
+      Environment_zona1_SF_39: -8649011212236499360
+      Environment_zona1_SF_4: 4272549140675356566
+      Environment_zona1_SF_40: -8107190092768183920
+      Environment_zona1_SF_41: 3453437926743580998
+      Environment_zona1_SF_42: 6064006958542528557
+      Environment_zona1_SF_43: 6520734624999988589
+      Environment_zona1_SF_44: 27245195738256171
+      Environment_zona1_SF_45: -5276834140011033862
+      Environment_zona1_SF_46: -253636776210831862
+      Environment_zona1_SF_47: -2701939077638869327
+      Environment_zona1_SF_48: 40021480495302742
+      Environment_zona1_SF_49: 535438411741621988
+      Environment_zona1_SF_5: -4111719458157360301
+      Environment_zona1_SF_50: 5241932444926361126
+      Environment_zona1_SF_51: 369852474058277934
+      Environment_zona1_SF_52: 2075269871776652449
+      Environment_zona1_SF_53: 3200847568602629744
+      Environment_zona1_SF_54: 5331833383577251559
+      Environment_zona1_SF_55: 4118941610413913949
+      Environment_zona1_SF_56: -5072362743452775954
+      Environment_zona1_SF_57: 3265035207025343412
+      Environment_zona1_SF_58: -3439822186715270144
+      Environment_zona1_SF_59: -3295870926717602626
+      Environment_zona1_SF_6: -4092899773048380980
+      Environment_zona1_SF_60: 2006534530037794479
+      Environment_zona1_SF_61: -8651734166957660542
+      Environment_zona1_SF_62: -4077155141018785311
+      Environment_zona1_SF_63: 5641750685625490056
+      Environment_zona1_SF_64: 4750972486615029497
+      Environment_zona1_SF_65: 3567607273148824641
+      Environment_zona1_SF_66: 50006210811355750
+      Environment_zona1_SF_67: 3107754266733734818
+      Environment_zona1_SF_68: 5394589860535641933
+      Environment_zona1_SF_69: 5791028233416917032
+      Environment_zona1_SF_7: 8895578954831683373
+      Environment_zona1_SF_70: -103779536607999651
+      Environment_zona1_SF_71: -9045667331700969974
+      Environment_zona1_SF_72: 3785001223390772036
+      Environment_zona1_SF_73: -3158767978241464217
+      Environment_zona1_SF_74: 2115940358386331661
+      Environment_zona1_SF_75: -6142807856883574960
+      Environment_zona1_SF_76: 4076158827713456638
+      Environment_zona1_SF_77: -7631496009133207786
+      Environment_zona1_SF_78: -7141354143618037029
+      Environment_zona1_SF_79: -5523557156376585048
+      Environment_zona1_SF_8: 4434768356748889882
+      Environment_zona1_SF_80: 8716118487550854820
+      Environment_zona1_SF_81: -1314497417796296245
+      Environment_zona1_SF_82: -3307657301474590284
+      Environment_zona1_SF_83: -1627601045636464564
+      Environment_zona1_SF_84: 1939822922399356102
+      Environment_zona1_SF_85: 1945600101397707343
+      Environment_zona1_SF_86: -8647670659217289753
+      Environment_zona1_SF_87: 4069946792875319735
+      Environment_zona1_SF_88: -9086880783978123011
+      Environment_zona1_SF_89: 5639578895614619590
+      Environment_zona1_SF_9: -9169221377877306848
+      Environment_zona1_SF_90: -1406229909546074367
+      Environment_zona1_SF_91: -571890994485013848
+      Environment_zona1_SF_92: 7132258031114129817
+      Environment_zona1_SF_93: -148580211737905188
+      Environment_zona1_SF_94: 2025756272241694747
+      Environment_zona1_SF_95: -239536244435174867
+      Environment_zona1_SF_96: -5859276234748089433
+      Environment_zona1_SF_97: 2877304471447541995
+      Environment_zona1_SF_98: -8851444257347500455
+      Environment_zona1_SF_99: -6973490029194174904
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

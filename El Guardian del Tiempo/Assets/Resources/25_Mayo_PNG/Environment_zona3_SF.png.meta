@@ -1,0 +1,5151 @@
+fileFormatVersion: 2
+guid: 24e7cacef4ffb7a47af6a885741cee24
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5640451901464573219
+    second: Environment_zona3_SF_0
+  - first:
+      213: 189605032038328318
+    second: Environment_zona3_SF_1
+  - first:
+      213: 1212054879547361701
+    second: Environment_zona3_SF_2
+  - first:
+      213: -2979640193404862170
+    second: Environment_zona3_SF_3
+  - first:
+      213: 4293887305748995702
+    second: Environment_zona3_SF_4
+  - first:
+      213: 466953394390529204
+    second: Environment_zona3_SF_5
+  - first:
+      213: -8695748751505181925
+    second: Environment_zona3_SF_6
+  - first:
+      213: -4290292140041303909
+    second: Environment_zona3_SF_7
+  - first:
+      213: 6118999757090603055
+    second: Environment_zona3_SF_8
+  - first:
+      213: 2767034893511721471
+    second: Environment_zona3_SF_9
+  - first:
+      213: -68822412411703212
+    second: Environment_zona3_SF_10
+  - first:
+      213: -4392943438810107927
+    second: Environment_zona3_SF_11
+  - first:
+      213: 3621904848679247242
+    second: Environment_zona3_SF_12
+  - first:
+      213: -6831011871671273719
+    second: Environment_zona3_SF_13
+  - first:
+      213: 1142352717953054011
+    second: Environment_zona3_SF_14
+  - first:
+      213: 8509714887209795137
+    second: Environment_zona3_SF_15
+  - first:
+      213: 1829538626294183823
+    second: Environment_zona3_SF_16
+  - first:
+      213: 9057488326360601583
+    second: Environment_zona3_SF_17
+  - first:
+      213: -2815035922346016086
+    second: Environment_zona3_SF_18
+  - first:
+      213: -5070523339563660124
+    second: Environment_zona3_SF_19
+  - first:
+      213: 7769561264026172754
+    second: Environment_zona3_SF_20
+  - first:
+      213: 3470354594983039780
+    second: Environment_zona3_SF_21
+  - first:
+      213: 5460890048322050840
+    second: Environment_zona3_SF_22
+  - first:
+      213: -9093505336208816783
+    second: Environment_zona3_SF_23
+  - first:
+      213: -6137863554387121076
+    second: Environment_zona3_SF_24
+  - first:
+      213: -8459669784733862972
+    second: Environment_zona3_SF_25
+  - first:
+      213: 7350592515875177408
+    second: Environment_zona3_SF_26
+  - first:
+      213: -2409038388974708486
+    second: Environment_zona3_SF_27
+  - first:
+      213: 1385413528751043707
+    second: Environment_zona3_SF_28
+  - first:
+      213: 6142663746059183909
+    second: Environment_zona3_SF_29
+  - first:
+      213: -8584684358972814240
+    second: Environment_zona3_SF_30
+  - first:
+      213: -1917490697322031597
+    second: Environment_zona3_SF_31
+  - first:
+      213: 3374781322597116792
+    second: Environment_zona3_SF_32
+  - first:
+      213: 7912425036199344297
+    second: Environment_zona3_SF_33
+  - first:
+      213: 1638302447402195702
+    second: Environment_zona3_SF_34
+  - first:
+      213: 3522999152714375442
+    second: Environment_zona3_SF_35
+  - first:
+      213: 8644733073780733869
+    second: Environment_zona3_SF_36
+  - first:
+      213: 3518629067693316192
+    second: Environment_zona3_SF_37
+  - first:
+      213: 3271995159008329226
+    second: Environment_zona3_SF_38
+  - first:
+      213: 8246066431025429566
+    second: Environment_zona3_SF_39
+  - first:
+      213: 6965523528412678985
+    second: Environment_zona3_SF_40
+  - first:
+      213: 547323010472442237
+    second: Environment_zona3_SF_41
+  - first:
+      213: -6040070294571048884
+    second: Environment_zona3_SF_42
+  - first:
+      213: 5342346335330801911
+    second: Environment_zona3_SF_43
+  - first:
+      213: -2302315608614108067
+    second: Environment_zona3_SF_44
+  - first:
+      213: 1020557141696013698
+    second: Environment_zona3_SF_45
+  - first:
+      213: -7799413969950845850
+    second: Environment_zona3_SF_46
+  - first:
+      213: -2705965760542805685
+    second: Environment_zona3_SF_47
+  - first:
+      213: 8043213799642801723
+    second: Environment_zona3_SF_48
+  - first:
+      213: -340198302865516085
+    second: Environment_zona3_SF_49
+  - first:
+      213: -2933065208250043852
+    second: Environment_zona3_SF_50
+  - first:
+      213: -8231839869580011584
+    second: Environment_zona3_SF_51
+  - first:
+      213: -6863797092248360970
+    second: Environment_zona3_SF_52
+  - first:
+      213: 8014768848689320189
+    second: Environment_zona3_SF_53
+  - first:
+      213: 7172032765893116116
+    second: Environment_zona3_SF_54
+  - first:
+      213: -7256209475252417343
+    second: Environment_zona3_SF_55
+  - first:
+      213: -8636611585743149029
+    second: Environment_zona3_SF_56
+  - first:
+      213: 3349765297849112402
+    second: Environment_zona3_SF_57
+  - first:
+      213: 7593076544094654018
+    second: Environment_zona3_SF_58
+  - first:
+      213: -7387751312408209601
+    second: Environment_zona3_SF_59
+  - first:
+      213: 6590823681480683893
+    second: Environment_zona3_SF_60
+  - first:
+      213: -417001958150328576
+    second: Environment_zona3_SF_61
+  - first:
+      213: -9132033900898236592
+    second: Environment_zona3_SF_62
+  - first:
+      213: 7955999839601813381
+    second: Environment_zona3_SF_63
+  - first:
+      213: -2118760200086998561
+    second: Environment_zona3_SF_64
+  - first:
+      213: 4101987071550541077
+    second: Environment_zona3_SF_65
+  - first:
+      213: 7536012479317974925
+    second: Environment_zona3_SF_66
+  - first:
+      213: -5499226858591344341
+    second: Environment_zona3_SF_67
+  - first:
+      213: 1486874866900516627
+    second: Environment_zona3_SF_68
+  - first:
+      213: -8472393434660616518
+    second: Environment_zona3_SF_69
+  - first:
+      213: 5314215058072163649
+    second: Environment_zona3_SF_70
+  - first:
+      213: -4355395880984899525
+    second: Environment_zona3_SF_71
+  - first:
+      213: -1658653674358111357
+    second: Environment_zona3_SF_72
+  - first:
+      213: -4604477874618602361
+    second: Environment_zona3_SF_73
+  - first:
+      213: -6523099188470441910
+    second: Environment_zona3_SF_74
+  - first:
+      213: 5759995447599424435
+    second: Environment_zona3_SF_75
+  - first:
+      213: 7754251529527135291
+    second: Environment_zona3_SF_76
+  - first:
+      213: -249858982070582275
+    second: Environment_zona3_SF_77
+  - first:
+      213: -1929102345043517461
+    second: Environment_zona3_SF_78
+  - first:
+      213: -3188879587950249904
+    second: Environment_zona3_SF_79
+  - first:
+      213: 7916671620050028657
+    second: Environment_zona3_SF_80
+  - first:
+      213: -4595215275368870165
+    second: Environment_zona3_SF_81
+  - first:
+      213: 7147574430905120785
+    second: Environment_zona3_SF_82
+  - first:
+      213: -6913550291083137528
+    second: Environment_zona3_SF_83
+  - first:
+      213: -1598831131442951636
+    second: Environment_zona3_SF_84
+  - first:
+      213: -3129224967477550461
+    second: Environment_zona3_SF_85
+  - first:
+      213: -6316996630264803788
+    second: Environment_zona3_SF_86
+  - first:
+      213: -4643746497310090927
+    second: Environment_zona3_SF_87
+  - first:
+      213: 5206839232008513310
+    second: Environment_zona3_SF_88
+  - first:
+      213: 8479892544732429269
+    second: Environment_zona3_SF_89
+  - first:
+      213: 5398049975229231144
+    second: Environment_zona3_SF_90
+  - first:
+      213: -1762406073111091092
+    second: Environment_zona3_SF_91
+  - first:
+      213: -6651608102828231098
+    second: Environment_zona3_SF_92
+  - first:
+      213: -5919703327719532526
+    second: Environment_zona3_SF_93
+  - first:
+      213: 3923487736101819339
+    second: Environment_zona3_SF_94
+  - first:
+      213: -7118620265209383306
+    second: Environment_zona3_SF_95
+  - first:
+      213: 190581860416403495
+    second: Environment_zona3_SF_96
+  - first:
+      213: 6689353063360708866
+    second: Environment_zona3_SF_97
+  - first:
+      213: 2346393500290355302
+    second: Environment_zona3_SF_98
+  - first:
+      213: 3278432632859675845
+    second: Environment_zona3_SF_99
+  - first:
+      213: 5060282790281217787
+    second: Environment_zona3_SF_100
+  - first:
+      213: -8381755155522626037
+    second: Environment_zona3_SF_101
+  - first:
+      213: 3174969884964998043
+    second: Environment_zona3_SF_102
+  - first:
+      213: -3311085867354030333
+    second: Environment_zona3_SF_103
+  - first:
+      213: 8338494975552418003
+    second: Environment_zona3_SF_104
+  - first:
+      213: -6699569764662039313
+    second: Environment_zona3_SF_105
+  - first:
+      213: 6670570716217589464
+    second: Environment_zona3_SF_106
+  - first:
+      213: 7238728134061857026
+    second: Environment_zona3_SF_107
+  - first:
+      213: -8714990241002215098
+    second: Environment_zona3_SF_108
+  - first:
+      213: -6846858510999770545
+    second: Environment_zona3_SF_109
+  - first:
+      213: 4067815148266924646
+    second: Environment_zona3_SF_110
+  - first:
+      213: 4983821988602015898
+    second: Environment_zona3_SF_111
+  - first:
+      213: -8716145291410312718
+    second: Environment_zona3_SF_112
+  - first:
+      213: 6669354557804439163
+    second: Environment_zona3_SF_113
+  - first:
+      213: -4566268523153298475
+    second: Environment_zona3_SF_114
+  - first:
+      213: 4536301701799815594
+    second: Environment_zona3_SF_115
+  - first:
+      213: -4142531836566182119
+    second: Environment_zona3_SF_116
+  - first:
+      213: -2456459470314594857
+    second: Environment_zona3_SF_117
+  - first:
+      213: -4594959850240528693
+    second: Environment_zona3_SF_118
+  - first:
+      213: -5392602737445734347
+    second: Environment_zona3_SF_119
+  - first:
+      213: -9157355945304241663
+    second: Environment_zona3_SF_120
+  - first:
+      213: -8629421714472526476
+    second: Environment_zona3_SF_121
+  - first:
+      213: 5970533425473504984
+    second: Environment_zona3_SF_122
+  - first:
+      213: -9060765991279391679
+    second: Environment_zona3_SF_123
+  - first:
+      213: -8125477070273851231
+    second: Environment_zona3_SF_124
+  - first:
+      213: 3063393439549572267
+    second: Environment_zona3_SF_125
+  - first:
+      213: -1229867990657327737
+    second: Environment_zona3_SF_126
+  - first:
+      213: -1903176136504249196
+    second: Environment_zona3_SF_127
+  - first:
+      213: 1436600743298458901
+    second: Environment_zona3_SF_128
+  - first:
+      213: -6000470208404331372
+    second: Environment_zona3_SF_129
+  - first:
+      213: 9048291500788757203
+    second: Environment_zona3_SF_130
+  - first:
+      213: 6677973260083229743
+    second: Environment_zona3_SF_131
+  - first:
+      213: -7921509211235019258
+    second: Environment_zona3_SF_132
+  - first:
+      213: 1245848038441729274
+    second: Environment_zona3_SF_133
+  - first:
+      213: 7309878148934036212
+    second: Environment_zona3_SF_134
+  - first:
+      213: 6687769599304271112
+    second: Environment_zona3_SF_135
+  - first:
+      213: 2751252251789909769
+    second: Environment_zona3_SF_136
+  - first:
+      213: -3754640563898236531
+    second: Environment_zona3_SF_137
+  - first:
+      213: -7683219657289279700
+    second: Environment_zona3_SF_138
+  - first:
+      213: 6289417243019362139
+    second: Environment_zona3_SF_139
+  - first:
+      213: -5728465960468214404
+    second: Environment_zona3_SF_140
+  - first:
+      213: -8596627566516626344
+    second: Environment_zona3_SF_141
+  - first:
+      213: -6601578819987552829
+    second: Environment_zona3_SF_142
+  - first:
+      213: 5981833732822581860
+    second: Environment_zona3_SF_143
+  - first:
+      213: 1051509361023513027
+    second: Environment_zona3_SF_144
+  - first:
+      213: 8853901983978527955
+    second: Environment_zona3_SF_145
+  - first:
+      213: -5815025703364889697
+    second: Environment_zona3_SF_146
+  - first:
+      213: 118819214891026145
+    second: Environment_zona3_SF_147
+  - first:
+      213: 5678175507599516419
+    second: Environment_zona3_SF_148
+  - first:
+      213: -4912289411603270662
+    second: Environment_zona3_SF_149
+  - first:
+      213: -6601907916678069541
+    second: Environment_zona3_SF_150
+  - first:
+      213: -7142103249965997694
+    second: Environment_zona3_SF_151
+  - first:
+      213: 5038475443334408665
+    second: Environment_zona3_SF_152
+  - first:
+      213: -2091028515611259757
+    second: Environment_zona3_SF_153
+  - first:
+      213: -898107478531570403
+    second: Environment_zona3_SF_154
+  - first:
+      213: 27312174225084042
+    second: Environment_zona3_SF_155
+  - first:
+      213: -2309851601198875499
+    second: Environment_zona3_SF_156
+  - first:
+      213: -9080887040991794982
+    second: Environment_zona3_SF_157
+  - first:
+      213: -7548501731956471495
+    second: Environment_zona3_SF_158
+  - first:
+      213: -1097525680026334020
+    second: Environment_zona3_SF_159
+  - first:
+      213: -3798595811214704970
+    second: Environment_zona3_SF_160
+  - first:
+      213: -7787759922041837903
+    second: Environment_zona3_SF_161
+  - first:
+      213: 2532221002264337313
+    second: Environment_zona3_SF_162
+  - first:
+      213: 1457036289562106599
+    second: Environment_zona3_SF_163
+  - first:
+      213: 6214580828479301354
+    second: Environment_zona3_SF_164
+  - first:
+      213: 4621399065369340780
+    second: Environment_zona3_SF_165
+  - first:
+      213: -6702836261481227502
+    second: Environment_zona3_SF_166
+  - first:
+      213: 2051446057636877665
+    second: Environment_zona3_SF_167
+  - first:
+      213: 168090431928278163
+    second: Environment_zona3_SF_168
+  - first:
+      213: 2358647678864834277
+    second: Environment_zona3_SF_169
+  - first:
+      213: 2709528448022711422
+    second: Environment_zona3_SF_170
+  - first:
+      213: 4621718155238109525
+    second: Environment_zona3_SF_171
+  - first:
+      213: 8288721171339267453
+    second: Environment_zona3_SF_172
+  - first:
+      213: -6579167607765909254
+    second: Environment_zona3_SF_173
+  - first:
+      213: 7840389382792801220
+    second: Environment_zona3_SF_174
+  - first:
+      213: -5673874558204374697
+    second: Environment_zona3_SF_175
+  - first:
+      213: 1218824869197650909
+    second: Environment_zona3_SF_176
+  - first:
+      213: -3159069476287432495
+    second: Environment_zona3_SF_177
+  - first:
+      213: -5811032313680048041
+    second: Environment_zona3_SF_178
+  - first:
+      213: 1568094430861488078
+    second: Environment_zona3_SF_179
+  - first:
+      213: 7053276043355663386
+    second: Environment_zona3_SF_180
+  - first:
+      213: -496506048678472811
+    second: Environment_zona3_SF_181
+  - first:
+      213: 7803359897810151188
+    second: Environment_zona3_SF_182
+  - first:
+      213: -7628805171551545425
+    second: Environment_zona3_SF_183
+  - first:
+      213: -9194677585007803437
+    second: Environment_zona3_SF_184
+  - first:
+      213: 8701242768805430795
+    second: Environment_zona3_SF_185
+  - first:
+      213: 9186236893105216951
+    second: Environment_zona3_SF_186
+  - first:
+      213: 7897886991602430818
+    second: Environment_zona3_SF_187
+  - first:
+      213: 8945416909327113489
+    second: Environment_zona3_SF_188
+  - first:
+      213: 7269631047076024572
+    second: Environment_zona3_SF_189
+  - first:
+      213: -603966529871195147
+    second: Environment_zona3_SF_190
+  - first:
+      213: -5964184325382644126
+    second: Environment_zona3_SF_191
+  - first:
+      213: -3095990206187521825
+    second: Environment_zona3_SF_192
+  - first:
+      213: -1291609798884770413
+    second: Environment_zona3_SF_193
+  - first:
+      213: 2042920793484341463
+    second: Environment_zona3_SF_194
+  - first:
+      213: 2029757614995836937
+    second: Environment_zona3_SF_195
+  - first:
+      213: 1014175358723325352
+    second: Environment_zona3_SF_196
+  - first:
+      213: 5299439477361836264
+    second: Environment_zona3_SF_197
+  - first:
+      213: -4342404612563216961
+    second: Environment_zona3_SF_198
+  - first:
+      213: -1319666343058664953
+    second: Environment_zona3_SF_199
+  - first:
+      213: -7765036844763448132
+    second: Environment_zona3_SF_200
+  - first:
+      213: -5426045450832134120
+    second: Environment_zona3_SF_201
+  - first:
+      213: -6167692351378589137
+    second: Environment_zona3_SF_202
+  - first:
+      213: 148757184563624758
+    second: Environment_zona3_SF_203
+  - first:
+      213: 7400276567123144298
+    second: Environment_zona3_SF_204
+  - first:
+      213: -9212813444932779274
+    second: Environment_zona3_SF_205
+  - first:
+      213: 5990117727954998339
+    second: Environment_zona3_SF_206
+  - first:
+      213: 3333169986980679407
+    second: Environment_zona3_SF_207
+  - first:
+      213: -8318525136982915537
+    second: Environment_zona3_SF_208
+  - first:
+      213: 9050020403390204473
+    second: Environment_zona3_SF_209
+  - first:
+      213: 2749014944737083318
+    second: Environment_zona3_SF_210
+  - first:
+      213: -4776169598209920378
+    second: Environment_zona3_SF_211
+  - first:
+      213: -1457299493591734264
+    second: Environment_zona3_SF_212
+  - first:
+      213: -2220848044297675972
+    second: Environment_zona3_SF_213
+  - first:
+      213: -7318743818636947339
+    second: Environment_zona3_SF_214
+  - first:
+      213: 4252732239025382652
+    second: Environment_zona3_SF_215
+  - first:
+      213: -5407643894230626726
+    second: Environment_zona3_SF_216
+  - first:
+      213: -1940285308625553445
+    second: Environment_zona3_SF_217
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Environment_zona3_SF_29
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 42
+        width: 13
+        height: 668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527278eb1202f3550800000000000000
+      internalID: 6142663746059183909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_30
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 652
+        width: 24
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06cc2922f031dd880800000000000000
+      internalID: -8584684358972814240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_31
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 646
+        width: 24
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316110ebe54b365e0800000000000000
+      internalID: -1917490697322031597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_32
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 671
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b26088bb1a5de20800000000000000
+      internalID: 3374781322597116792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_33
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 665
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8b19a06a49ecd60800000000000000
+      internalID: 7912425036199344297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_34
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 648
+        width: 24
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa9f04556b6cb610800000000000000
+      internalID: 1638302447402195702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_35
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 657
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211ea81501534e030800000000000000
+      internalID: 3522999152714375442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_36
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 665
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da775c8cde248f770800000000000000
+      internalID: 8644733073780733869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_37
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 655
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068593c9e7ea4d030800000000000000
+      internalID: 3518629067693316192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_38
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 656
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e3d77e246786d20800000000000000
+      internalID: 3271995159008329226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_39
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 655
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c3b8fbab9ef6270800000000000000
+      internalID: 8246066431025429566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_40
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 697
+        width: 108
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94bc9a18eb28aa060800000000000000
+      internalID: 6965523528412678985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_41
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 698
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d797b90d06b789700800000000000000
+      internalID: 547323010472442237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_42
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 698
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4024b9911c5d2ca0800000000000000
+      internalID: -6040070294571048884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_43
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 698
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f89080efa3d32a40800000000000000
+      internalID: 5342346335330801911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_44
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 698
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5408b3f6288c00e0800000000000000
+      internalID: -2302315608614108067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_45
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 698
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28567cf205fb92e00800000000000000
+      internalID: 1020557141696013698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_46
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 698
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6645cd0415ae2c390800000000000000
+      internalID: -7799413969950845850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_47
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 698
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41f9744a7a727ad0800000000000000
+      internalID: -2705965760542805685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_48
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 694
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36aa34065c3f9f60800000000000000
+      internalID: 8043213799642801723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_49
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 698
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9928c227f574bf0800000000000000
+      internalID: -340198302865516085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_50
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 698
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432f23fabb8ab47d0800000000000000
+      internalID: -2933065208250043852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_51
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 698
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c719c5b041a2cd80800000000000000
+      internalID: -8231839869580011584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_52
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 698
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f76d2a19e4eeb0a0800000000000000
+      internalID: -6863797092248360970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_53
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 698
+        width: 110
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df05ef6cdcd2a3f60800000000000000
+      internalID: 8014768848689320189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_54
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 655
+        width: 29
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d085803dcd288360800000000000000
+      internalID: 7172032765893116116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_55
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 670
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc81c36de3cc4b90800000000000000
+      internalID: -7256209475252417343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_56
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 633
+        width: 74
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18a1c08587942880800000000000000
+      internalID: -8636611585743149029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_57
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 634
+        width: 45
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2571a336ac1cc7e20800000000000000
+      internalID: 3349765297849112402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_58
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 639
+        width: 56
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ecc1313e6006960800000000000000
+      internalID: 7593076544094654018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_59
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 633
+        width: 55
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f379bf6c25f697990800000000000000
+      internalID: -7387751312408209601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_61
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 570
+        width: 104
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00faecdade2863af0800000000000000
+      internalID: -417001958150328576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_62
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 570
+        width: 186
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057c22cfc8f744180800000000000000
+      internalID: -9132033900898236592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_63
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 625
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587e78093b3696e60800000000000000
+      internalID: 7955999839601813381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_64
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 621
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1349dd2d6a892e0800000000000000
+      internalID: -2118760200086998561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_65
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 571
+        width: 386
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51dc301228f2de830800000000000000
+      internalID: 4101987071550541077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_66
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 625
+        width: 59
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f98a42c6b459860800000000000000
+      internalID: 7536012479317974925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_67
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 571
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29206aee42dea3b0800000000000000
+      internalID: -5499226858591344341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_68
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 565
+        width: 77
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fbf0b40d072a410800000000000000
+      internalID: 1486874866900516627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_69
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 570
+        width: 127
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6c3b15f030c6a80800000000000000
+      internalID: -8472393434660616518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_70
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 569
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1455c6c7072efb940800000000000000
+      internalID: 5314215058072163649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_71
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 570
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3012b9a5868e83c0800000000000000
+      internalID: -4355395880984899525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_72
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 570
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3830d7665474bf8e0800000000000000
+      internalID: -1658653674358111357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_73
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 571
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c6633c4cb9910c0800000000000000
+      internalID: -4604477874618602361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_74
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 571
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48949459db4975a0800000000000000
+      internalID: -6523099188470441910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_75
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 571
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3e702875d9fef40800000000000000
+      internalID: 5759995447599424435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_76
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 571
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c8e7caea2ac9b60800000000000000
+      internalID: 7754251529527135291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_77
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 571
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df30eb16492588cf0800000000000000
+      internalID: -249858982070582275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_78
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 548
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befde4453a37a35e0800000000000000
+      internalID: -1929102345043517461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_79
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 551
+        width: 157
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0583bb009e2deb3d0800000000000000
+      internalID: -3188879587950249904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_80
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 548
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1788f74e4eaaddd60800000000000000
+      internalID: 7916671620050028657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_81
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 548
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee8035bd048a30c0800000000000000
+      internalID: -4595215275368870165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_82
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 548
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118b3cf4319413360800000000000000
+      internalID: 7147574430905120785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_83
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 547
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ee03bc3a22e00a0800000000000000
+      internalID: -6913550291083137528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_84
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 548
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ac1829e8fcfc9e0800000000000000
+      internalID: -1598831131442951636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_85
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 548
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382a73fa872c294d0800000000000000
+      internalID: -3129224967477550461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_86
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 548
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e0abd98058558a0800000000000000
+      internalID: -6316996630264803788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_87
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 548
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1591ed01a291e8fb0800000000000000
+      internalID: -4643746497310090927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_88
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 548
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e176f6ac1b8624840800000000000000
+      internalID: 5206839232008513310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_89
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 548
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db724e4751aea570800000000000000
+      internalID: 8479892544732429269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_90
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 548
+        width: 155
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82038553ad9b9ea40800000000000000
+      internalID: 5398049975229231144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_91
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 191
+        width: 414
+        height: 376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68e83e930daa87e0800000000000000
+      internalID: -1762406073111091092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_92
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 548
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64630d51cadb0b3a0800000000000000
+      internalID: -6651608102828231098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_93
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 551
+        width: 163
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2185497ff2df8dda0800000000000000
+      internalID: -5919703327719532526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_94
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 547
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc353f6fe47037630800000000000000
+      internalID: 3923487736101819339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_95
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 547
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6763c49b594953d90800000000000000
+      internalID: -7118620265209383306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_96
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 547
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728b0ca313515a200800000000000000
+      internalID: 190581860416403495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_97
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 548
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20149ce5b2b55dc50800000000000000
+      internalID: 6689353063360708866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_98
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 543
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6609710f470109020800000000000000
+      internalID: 2346393500290355302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_99
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 548
+        width: 181
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc46a51c155f7d20800000000000000
+      internalID: 3278432632859675845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_100
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 515
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf60cb1236cb93640800000000000000
+      internalID: 5060282790281217787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_101
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 369
+        width: 293
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e56c038160eab80800000000000000
+      internalID: -8381755155522626037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_102
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 369
+        width: 251
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9bc6e5e942cf0c20800000000000000
+      internalID: 3174969884964998043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_103
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 511
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ffb8f42f8ac02d0800000000000000
+      internalID: -3311085867354030333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_104
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 528
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d07e23400948b370800000000000000
+      internalID: 8338494975552418003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_105
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 206
+        width: 151
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec2f5d7bc85603a0800000000000000
+      internalID: -6699569764662039313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_106
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 205
+        width: 294
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8deb54569b0a29c50800000000000000
+      internalID: 6670570716217589464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_107
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 206
+        width: 250
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2091260b2e0257460800000000000000
+      internalID: 7238728134061857026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_108
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 206
+        width: 195
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6492110cc822e0780800000000000000
+      internalID: -8714990241002215098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_109
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 175
+        width: 116
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4aaf70e5721bf0a0800000000000000
+      internalID: -6846858510999770545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_110
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 175
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a276c3358c37830800000000000000
+      internalID: 4067815148266924646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_111
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 175
+        width: 41
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90776671b71a2540800000000000000
+      internalID: 4983821988602015898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_112
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 175
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f17bce99080a0780800000000000000
+      internalID: -8716145291410312718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_113
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 175
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76e01372ae4e8c50800000000000000
+      internalID: 6669354557804439163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_114
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 175
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db6668a8fa51a0c0800000000000000
+      internalID: -4566268523153298475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_115
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 175
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa927c90d5e24fe30800000000000000
+      internalID: 4536301701799815594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_116
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 175
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917e9b22e35c286c0800000000000000
+      internalID: -4142531836566182119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_117
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 175
+        width: 147
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd11ca6027e8edd0800000000000000
+      internalID: -2456459470314594857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_118
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 166
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce2b318c5c6b30c0800000000000000
+      internalID: -4594959850240528693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_119
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 150
+        width: 288
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5387fbba160a925b0800000000000000
+      internalID: -5392602737445734347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_120
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 183
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a445619498ae080800000000000000
+      internalID: -9157355945304241663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_121
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 162
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d92dbdba22e3880800000000000000
+      internalID: -8629421714472526476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_122
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 157
+        width: 615
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6c1f864889bd250800000000000000
+      internalID: 5970533425473504984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_123
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 157
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c0ad04651b14280800000000000000
+      internalID: -9060765991279391679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_124
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 157
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0debbb7a18c3f80800000000000000
+      internalID: -8125477070273851231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_125
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 157
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba44d9b4a1c538a20800000000000000
+      internalID: 3063393439549572267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_126
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 157
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d1f302491aeeee0800000000000000
+      internalID: -1229867990657327737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_127
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 157
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494f9a6236f8695e0800000000000000
+      internalID: -1903176136504249196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_128
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 152
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515ed5cb3c4dfe310800000000000000
+      internalID: 1436600743298458901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_129
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 157
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494eeb6232c0abca0800000000000000
+      internalID: -6000470208404331372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_130
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 157
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d233b81e2df19d70800000000000000
+      internalID: 9048291500788757203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_131
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 157
+        width: 218
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2471d27c4decac50800000000000000
+      internalID: 6677973260083229743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_132
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 146
+        width: 40
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6061a53a755211290800000000000000
+      internalID: -7921509211235019258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_133
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 150
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afcbf6fa0342a4110800000000000000
+      internalID: 1245848038441729274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_134
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 6
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa6a927277e17560800000000000000
+      internalID: 7309878148934036212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_135
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 31
+        width: 141
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805003a640bbfcc50800000000000000
+      internalID: 6687769599304271112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_136
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 35
+        width: 103
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f5e63a8596e2620800000000000000
+      internalID: 2751252251789909769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_137
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 35
+        width: 104
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81c291dc46d4ebc0800000000000000
+      internalID: -3754640563898236531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_138
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 34
+        width: 97
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2759fbdd68bf5590800000000000000
+      internalID: -7683219657289279700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_139
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 35
+        width: 123
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5fb266e8af784750800000000000000
+      internalID: 6289417243019362139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_140
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 34
+        width: 209
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d00664f866080b0800000000000000
+      internalID: -5728465960468214404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_141
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 34
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c127f66c4a2b880800000000000000
+      internalID: -8596627566516626344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_142
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 34
+        width: 59
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c546e53a0b7264a0800000000000000
+      internalID: -6601578819987552829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_143
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 31
+        width: 386
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462c65e361eb30350800000000000000
+      internalID: 5981833732822581860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_144
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 21
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1fdc55136b79e00800000000000000
+      internalID: 1051509361023513027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_145
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc9a27c1f06fda70800000000000000
+      internalID: 8853901983978527955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_146
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f937b2f9ee0ec4fa0800000000000000
+      internalID: -5815025703364889697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_147
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 1308
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e60218427126a100800000000000000
+      internalID: 118819214891026145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_148
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 17
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303eac63a8eecce40800000000000000
+      internalID: 5678175507599516419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_149
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 17
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3797b7eca04dbb0800000000000000
+      internalID: -4912289411603270662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_150
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 17
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2809a6abf4164a0800000000000000
+      internalID: -6601907916678069541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_151
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 17
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2812d944fe622ec90800000000000000
+      internalID: -7142103249965997694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_152
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 17
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9e97188b24ce540800000000000000
+      internalID: 5038475443334408665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_153
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 16
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c47cfc4ac2bf2e0800000000000000
+      internalID: -2091028515611259757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_154
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 17
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d150104b1084983f0800000000000000
+      internalID: -898107478531570403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_155
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 17
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ecaba1748016000800000000000000
+      internalID: 27312174225084042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_156
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 17
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c7ca2f432c1ffd0800000000000000
+      internalID: -2309851601198875499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_157
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 17
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad86c3c49553af180800000000000000
+      internalID: -9080887040991794982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_158
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 17
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93940502ba55e3790800000000000000
+      internalID: -7548501731956471495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_159
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 17
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc492e753ec4c0f0800000000000000
+      internalID: -1097525680026334020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_160
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 17
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6beb24b4c3da84bc0800000000000000
+      internalID: -3798595811214704970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_161
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 17
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b62caabc915ce390800000000000000
+      internalID: -7787759922041837903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_162
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 17
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1abdfb4d591442320800000000000000
+      internalID: 2532221002264337313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_163
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 17
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ead33029ce683410800000000000000
+      internalID: 1457036289562106599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_164
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 17
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae626755650ae3650800000000000000
+      internalID: 6214580828479301354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_165
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 17
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b69a8f6f1822040800000000000000
+      internalID: 4621399065369340780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_166
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 17
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21bddceeeedbaf2a0800000000000000
+      internalID: -6702836261481227502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_167
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 17
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16552550253387c10800000000000000
+      internalID: 2051446057636877665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_168
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 17
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c1a357b5d255200800000000000000
+      internalID: 168090431928278163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_169
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 17
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eeb90931999bb020800000000000000
+      internalID: 2358647678864834277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_170
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 17
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c853d84cd2a9520800000000000000
+      internalID: 2709528448022711422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_171
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 17
+        width: 106
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551f0fedc24a32040800000000000000
+      internalID: 4621718155238109525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_172
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 17
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7dcfe36df3770370800000000000000
+      internalID: 8288721171339267453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_173
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 17
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af04b5d2be912b4a0800000000000000
+      internalID: -6579167607765909254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_174
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 17
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cbeb1e7a98aecc60800000000000000
+      internalID: 7840389382792801220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_175
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 17
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7511a1a96295241b0800000000000000
+      internalID: -5673874558204374697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_176
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 17
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb10fbc2c22ae010800000000000000
+      internalID: 1218824869197650909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_177
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 17
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8bb1d7c0bb824d0800000000000000
+      internalID: -3159069476287432495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_178
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 17
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750d8cc16e01b5fa0800000000000000
+      internalID: -5811032313680048041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_179
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 17
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf64c5a39df2c510800000000000000
+      internalID: 1568094430861488078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_180
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 17
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1cacfa013542e160800000000000000
+      internalID: 7053276043355663386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_181
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 17
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593dfab116e0c19f0800000000000000
+      internalID: -496506048678472811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_182
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 17
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417a08bab7a1b4c60800000000000000
+      internalID: 7803359897810151188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_183
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 17
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7d1099d1a012690800000000000000
+      internalID: -7628805171551545425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_184
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 17
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d30d51b371f56080800000000000000
+      internalID: -9194677585007803437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_185
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 17
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b068513723601c870800000000000000
+      internalID: 8701242768805430795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_186
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 17
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bddf1498c11c7f70800000000000000
+      internalID: 9186236893105216951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_187
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 17
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26334a2cf5eea9d60800000000000000
+      internalID: 7897886991602430818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_188
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 17
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d1730c841842c70800000000000000
+      internalID: 8945416909327113489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_189
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 17
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf01e11dbeae2e460800000000000000
+      internalID: 7269631047076024572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_190
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 17
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f35dca14a74e97f0800000000000000
+      internalID: -603966529871195147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_191
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 17
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e5d96a4f5fa3da0800000000000000
+      internalID: -5964184325382644126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_192
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 17
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8ba1c8f45d805d0800000000000000
+      internalID: -3095990206187521825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_193
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 13
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d3f0d2bb7431ee0800000000000000
+      internalID: -1291609798884770413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_194
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 17
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0b4e743a9e95c10800000000000000
+      internalID: 2042920793484341463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_195
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 17
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90098f5fbc52b2c10800000000000000
+      internalID: 2029757614995836937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_196
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 17
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad78ac8d13131e00800000000000000
+      internalID: 1014175358723325352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_197
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 18
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e085d480246b8940800000000000000
+      internalID: 5299439477361836264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_198
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 16
+        width: 105
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5d62d030eacb3c0800000000000000
+      internalID: -4342404612563216961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_199
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 16
+        width: 60
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70213ffe37a9fade0800000000000000
+      internalID: -1319666343058664953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_200
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 17
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbcfd00712c0d3490800000000000000
+      internalID: -7765036844763448132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_201
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 17
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810c6003960d2b4b0800000000000000
+      internalID: -5426045450832134120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_202
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 17
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a7f28fb74f76aa0800000000000000
+      internalID: -6167692351378589137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_203
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 17
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63bb3b70fdd701200800000000000000
+      internalID: 148757184563624758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_204
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 13
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ea507545013b660800000000000000
+      internalID: 7400276567123144298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_205
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 17
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2c6d0cbf2852080800000000000000
+      internalID: -9212813444932779274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_206
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 17
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3441789265c212350800000000000000
+      internalID: 5990117727954998339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_207
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 17
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee0af9717cc14e20800000000000000
+      internalID: 3333169986980679407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_208
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 17
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26c9fa1679ae8c80800000000000000
+      internalID: -8318525136982915537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_209
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 13
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a4c1a9b91289d70800000000000000
+      internalID: 9050020403390204473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_210
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 17
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf3b4ff686762620800000000000000
+      internalID: 2749014944737083318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_211
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 17
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6827daf3e03a7bdb0800000000000000
+      internalID: -4776169598209920378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_212
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 13
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808ab19e4d1a6cbe0800000000000000
+      internalID: -1457299493591734264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_213
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 17
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b14836876fd21e0800000000000000
+      internalID: -2220848044297675972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_214
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 17
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5701f08f5499e6a90800000000000000
+      internalID: -7318743818636947339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_215
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 15
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4a5ff707db40b30800000000000000
+      internalID: 4252732239025382652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_216
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 6
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ec294778034f4b0800000000000000
+      internalID: -5407643894230626726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_zona3_SF_217
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 7
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7f678bac8b215e0800000000000000
+      internalID: -1940285308625553445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cb71cce2fa836944baa1343d2c89fdc7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Environment_zona3_SF_0: 5640451901464573219
+      Environment_zona3_SF_1: 189605032038328318
+      Environment_zona3_SF_10: -68822412411703212
+      Environment_zona3_SF_100: 5060282790281217787
+      Environment_zona3_SF_101: -8381755155522626037
+      Environment_zona3_SF_102: 3174969884964998043
+      Environment_zona3_SF_103: -3311085867354030333
+      Environment_zona3_SF_104: 8338494975552418003
+      Environment_zona3_SF_105: -6699569764662039313
+      Environment_zona3_SF_106: 6670570716217589464
+      Environment_zona3_SF_107: 7238728134061857026
+      Environment_zona3_SF_108: -8714990241002215098
+      Environment_zona3_SF_109: -6846858510999770545
+      Environment_zona3_SF_11: -4392943438810107927
+      Environment_zona3_SF_110: 4067815148266924646
+      Environment_zona3_SF_111: 4983821988602015898
+      Environment_zona3_SF_112: -8716145291410312718
+      Environment_zona3_SF_113: 6669354557804439163
+      Environment_zona3_SF_114: -4566268523153298475
+      Environment_zona3_SF_115: 4536301701799815594
+      Environment_zona3_SF_116: -4142531836566182119
+      Environment_zona3_SF_117: -2456459470314594857
+      Environment_zona3_SF_118: -4594959850240528693
+      Environment_zona3_SF_119: -5392602737445734347
+      Environment_zona3_SF_12: 3621904848679247242
+      Environment_zona3_SF_120: -9157355945304241663
+      Environment_zona3_SF_121: -8629421714472526476
+      Environment_zona3_SF_122: 5970533425473504984
+      Environment_zona3_SF_123: -9060765991279391679
+      Environment_zona3_SF_124: -8125477070273851231
+      Environment_zona3_SF_125: 3063393439549572267
+      Environment_zona3_SF_126: -1229867990657327737
+      Environment_zona3_SF_127: -1903176136504249196
+      Environment_zona3_SF_128: 1436600743298458901
+      Environment_zona3_SF_129: -6000470208404331372
+      Environment_zona3_SF_13: -6831011871671273719
+      Environment_zona3_SF_130: 9048291500788757203
+      Environment_zona3_SF_131: 6677973260083229743
+      Environment_zona3_SF_132: -7921509211235019258
+      Environment_zona3_SF_133: 1245848038441729274
+      Environment_zona3_SF_134: 7309878148934036212
+      Environment_zona3_SF_135: 6687769599304271112
+      Environment_zona3_SF_136: 2751252251789909769
+      Environment_zona3_SF_137: -3754640563898236531
+      Environment_zona3_SF_138: -7683219657289279700
+      Environment_zona3_SF_139: 6289417243019362139
+      Environment_zona3_SF_14: 1142352717953054011
+      Environment_zona3_SF_140: -5728465960468214404
+      Environment_zona3_SF_141: -8596627566516626344
+      Environment_zona3_SF_142: -6601578819987552829
+      Environment_zona3_SF_143: 5981833732822581860
+      Environment_zona3_SF_144: 1051509361023513027
+      Environment_zona3_SF_145: 8853901983978527955
+      Environment_zona3_SF_146: -5815025703364889697
+      Environment_zona3_SF_147: 118819214891026145
+      Environment_zona3_SF_148: 5678175507599516419
+      Environment_zona3_SF_149: -4912289411603270662
+      Environment_zona3_SF_15: 8509714887209795137
+      Environment_zona3_SF_150: -6601907916678069541
+      Environment_zona3_SF_151: -7142103249965997694
+      Environment_zona3_SF_152: 5038475443334408665
+      Environment_zona3_SF_153: -2091028515611259757
+      Environment_zona3_SF_154: -898107478531570403
+      Environment_zona3_SF_155: 27312174225084042
+      Environment_zona3_SF_156: -2309851601198875499
+      Environment_zona3_SF_157: -9080887040991794982
+      Environment_zona3_SF_158: -7548501731956471495
+      Environment_zona3_SF_159: -1097525680026334020
+      Environment_zona3_SF_16: 1829538626294183823
+      Environment_zona3_SF_160: -3798595811214704970
+      Environment_zona3_SF_161: -7787759922041837903
+      Environment_zona3_SF_162: 2532221002264337313
+      Environment_zona3_SF_163: 1457036289562106599
+      Environment_zona3_SF_164: 6214580828479301354
+      Environment_zona3_SF_165: 4621399065369340780
+      Environment_zona3_SF_166: -6702836261481227502
+      Environment_zona3_SF_167: 2051446057636877665
+      Environment_zona3_SF_168: 168090431928278163
+      Environment_zona3_SF_169: 2358647678864834277
+      Environment_zona3_SF_17: 9057488326360601583
+      Environment_zona3_SF_170: 2709528448022711422
+      Environment_zona3_SF_171: 4621718155238109525
+      Environment_zona3_SF_172: 8288721171339267453
+      Environment_zona3_SF_173: -6579167607765909254
+      Environment_zona3_SF_174: 7840389382792801220
+      Environment_zona3_SF_175: -5673874558204374697
+      Environment_zona3_SF_176: 1218824869197650909
+      Environment_zona3_SF_177: -3159069476287432495
+      Environment_zona3_SF_178: -5811032313680048041
+      Environment_zona3_SF_179: 1568094430861488078
+      Environment_zona3_SF_18: -2815035922346016086
+      Environment_zona3_SF_180: 7053276043355663386
+      Environment_zona3_SF_181: -496506048678472811
+      Environment_zona3_SF_182: 7803359897810151188
+      Environment_zona3_SF_183: -7628805171551545425
+      Environment_zona3_SF_184: -9194677585007803437
+      Environment_zona3_SF_185: 8701242768805430795
+      Environment_zona3_SF_186: 9186236893105216951
+      Environment_zona3_SF_187: 7897886991602430818
+      Environment_zona3_SF_188: 8945416909327113489
+      Environment_zona3_SF_189: 7269631047076024572
+      Environment_zona3_SF_19: -5070523339563660124
+      Environment_zona3_SF_190: -603966529871195147
+      Environment_zona3_SF_191: -5964184325382644126
+      Environment_zona3_SF_192: -3095990206187521825
+      Environment_zona3_SF_193: -1291609798884770413
+      Environment_zona3_SF_194: 2042920793484341463
+      Environment_zona3_SF_195: 2029757614995836937
+      Environment_zona3_SF_196: 1014175358723325352
+      Environment_zona3_SF_197: 5299439477361836264
+      Environment_zona3_SF_198: -4342404612563216961
+      Environment_zona3_SF_199: -1319666343058664953
+      Environment_zona3_SF_2: 1212054879547361701
+      Environment_zona3_SF_20: 7769561264026172754
+      Environment_zona3_SF_200: -7765036844763448132
+      Environment_zona3_SF_201: -5426045450832134120
+      Environment_zona3_SF_202: -6167692351378589137
+      Environment_zona3_SF_203: 148757184563624758
+      Environment_zona3_SF_204: 7400276567123144298
+      Environment_zona3_SF_205: -9212813444932779274
+      Environment_zona3_SF_206: 5990117727954998339
+      Environment_zona3_SF_207: 3333169986980679407
+      Environment_zona3_SF_208: -8318525136982915537
+      Environment_zona3_SF_209: 9050020403390204473
+      Environment_zona3_SF_21: 3470354594983039780
+      Environment_zona3_SF_210: 2749014944737083318
+      Environment_zona3_SF_211: -4776169598209920378
+      Environment_zona3_SF_212: -1457299493591734264
+      Environment_zona3_SF_213: -2220848044297675972
+      Environment_zona3_SF_214: -7318743818636947339
+      Environment_zona3_SF_215: 4252732239025382652
+      Environment_zona3_SF_216: -5407643894230626726
+      Environment_zona3_SF_217: -1940285308625553445
+      Environment_zona3_SF_22: 5460890048322050840
+      Environment_zona3_SF_23: -9093505336208816783
+      Environment_zona3_SF_24: -6137863554387121076
+      Environment_zona3_SF_25: -8459669784733862972
+      Environment_zona3_SF_26: 7350592515875177408
+      Environment_zona3_SF_27: -2409038388974708486
+      Environment_zona3_SF_28: 1385413528751043707
+      Environment_zona3_SF_29: 6142663746059183909
+      Environment_zona3_SF_3: -2979640193404862170
+      Environment_zona3_SF_30: -8584684358972814240
+      Environment_zona3_SF_31: -1917490697322031597
+      Environment_zona3_SF_32: 3374781322597116792
+      Environment_zona3_SF_33: 7912425036199344297
+      Environment_zona3_SF_34: 1638302447402195702
+      Environment_zona3_SF_35: 3522999152714375442
+      Environment_zona3_SF_36: 8644733073780733869
+      Environment_zona3_SF_37: 3518629067693316192
+      Environment_zona3_SF_38: 3271995159008329226
+      Environment_zona3_SF_39: 8246066431025429566
+      Environment_zona3_SF_4: 4293887305748995702
+      Environment_zona3_SF_40: 6965523528412678985
+      Environment_zona3_SF_41: 547323010472442237
+      Environment_zona3_SF_42: -6040070294571048884
+      Environment_zona3_SF_43: 5342346335330801911
+      Environment_zona3_SF_44: -2302315608614108067
+      Environment_zona3_SF_45: 1020557141696013698
+      Environment_zona3_SF_46: -7799413969950845850
+      Environment_zona3_SF_47: -2705965760542805685
+      Environment_zona3_SF_48: 8043213799642801723
+      Environment_zona3_SF_49: -340198302865516085
+      Environment_zona3_SF_5: 466953394390529204
+      Environment_zona3_SF_50: -2933065208250043852
+      Environment_zona3_SF_51: -8231839869580011584
+      Environment_zona3_SF_52: -6863797092248360970
+      Environment_zona3_SF_53: 8014768848689320189
+      Environment_zona3_SF_54: 7172032765893116116
+      Environment_zona3_SF_55: -7256209475252417343
+      Environment_zona3_SF_56: -8636611585743149029
+      Environment_zona3_SF_57: 3349765297849112402
+      Environment_zona3_SF_58: 7593076544094654018
+      Environment_zona3_SF_59: -7387751312408209601
+      Environment_zona3_SF_6: -8695748751505181925
+      Environment_zona3_SF_60: 6590823681480683893
+      Environment_zona3_SF_61: -417001958150328576
+      Environment_zona3_SF_62: -9132033900898236592
+      Environment_zona3_SF_63: 7955999839601813381
+      Environment_zona3_SF_64: -2118760200086998561
+      Environment_zona3_SF_65: 4101987071550541077
+      Environment_zona3_SF_66: 7536012479317974925
+      Environment_zona3_SF_67: -5499226858591344341
+      Environment_zona3_SF_68: 1486874866900516627
+      Environment_zona3_SF_69: -8472393434660616518
+      Environment_zona3_SF_7: -4290292140041303909
+      Environment_zona3_SF_70: 5314215058072163649
+      Environment_zona3_SF_71: -4355395880984899525
+      Environment_zona3_SF_72: -1658653674358111357
+      Environment_zona3_SF_73: -4604477874618602361
+      Environment_zona3_SF_74: -6523099188470441910
+      Environment_zona3_SF_75: 5759995447599424435
+      Environment_zona3_SF_76: 7754251529527135291
+      Environment_zona3_SF_77: -249858982070582275
+      Environment_zona3_SF_78: -1929102345043517461
+      Environment_zona3_SF_79: -3188879587950249904
+      Environment_zona3_SF_8: 6118999757090603055
+      Environment_zona3_SF_80: 7916671620050028657
+      Environment_zona3_SF_81: -4595215275368870165
+      Environment_zona3_SF_82: 7147574430905120785
+      Environment_zona3_SF_83: -6913550291083137528
+      Environment_zona3_SF_84: -1598831131442951636
+      Environment_zona3_SF_85: -3129224967477550461
+      Environment_zona3_SF_86: -6316996630264803788
+      Environment_zona3_SF_87: -4643746497310090927
+      Environment_zona3_SF_88: 5206839232008513310
+      Environment_zona3_SF_89: 8479892544732429269
+      Environment_zona3_SF_9: 2767034893511721471
+      Environment_zona3_SF_90: 5398049975229231144
+      Environment_zona3_SF_91: -1762406073111091092
+      Environment_zona3_SF_92: -6651608102828231098
+      Environment_zona3_SF_93: -5919703327719532526
+      Environment_zona3_SF_94: 3923487736101819339
+      Environment_zona3_SF_95: -7118620265209383306
+      Environment_zona3_SF_96: 190581860416403495
+      Environment_zona3_SF_97: 6689353063360708866
+      Environment_zona3_SF_98: 2346393500290355302
+      Environment_zona3_SF_99: 3278432632859675845
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
