@@ -1,0 +1,431 @@
+fileFormatVersion: 2
+guid: 560ff51eb5d1ec14c876b5c33b49c250
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2509811537650079926
+    second: assetsRol_0
+  - first:
+      213: -3156655003751305359
+    second: assetsRol_1
+  - first:
+      213: 2332017968663992868
+    second: assetsRol_2
+  - first:
+      213: -7351405375913109976
+    second: assetsRol_3
+  - first:
+      213: -1443162268203788164
+    second: assetsRol_4
+  - first:
+      213: -3432145258333675472
+    second: assetsRol_5
+  - first:
+      213: -6552469475728762730
+    second: assetsRol_6
+  - first:
+      213: 1015094464020984299
+    second: assetsRol_7
+  - first:
+      213: 954305460310823976
+    second: assetsRol_8
+  - first:
+      213: 3060370744522957743
+    second: assetsRol_9
+  - first:
+      213: 1290735512503225915
+    second: assetsRol_10
+  - first:
+      213: -8287530790958679587
+    second: assetsRol_11
+  - first:
+      213: -5735696246991238612
+    second: assetsRol_12
+  - first:
+      213: 3029679102073233759
+    second: assetsRol_13
+  - first:
+      213: 616481089816033073
+    second: assetsRol_14
+  - first:
+      213: -1037343339012440299
+    second: assetsRol_15
+  - first:
+      213: 2328885525642238379
+    second: assetsRol_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: assetsRol_0
+      rect:
+        serializedVersion: 2
+        x: 3704
+        y: 2092
+        width: 197
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b85fc2cb44a4d220800000000000000
+      internalID: 2509811537650079926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assetsRol_4
+      rect:
+        serializedVersion: 2
+        x: 4276
+        y: 1920
+        width: 320
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c785772309bd8fbe0800000000000000
+      internalID: -1443162268203788164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assetsRol_6
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 654
+        width: 268
+        height: 1610
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698d8917ab3f015a0800000000000000
+      internalID: -6552469475728762730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assetsRol_7
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 1323
+        width: 1355
+        height: 900
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1bf6d6907561e00800000000000000
+      internalID: 1015094464020984299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assetsRol_10
+      rect:
+        serializedVersion: 2
+        x: 4842
+        y: 1965
+        width: 296
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e8cb92c1d99e110800000000000000
+      internalID: 1290735512503225915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assetsRol_11
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1561
+        width: 431
+        height: 502
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9bbc3a7a6ccfc80800000000000000
+      internalID: -8287530790958679587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assetsRol_12
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1601
+        width: 436
+        height: 435
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2acb8207a6b660b0800000000000000
+      internalID: -5735696246991238612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assetsRol_14
+      rect:
+        serializedVersion: 2
+        x: 3685
+        y: 1425
+        width: 235
+        height: 395
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137fa31f84e2e8800800000000000000
+      internalID: 616481089816033073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assetsRol_15
+      rect:
+        serializedVersion: 2
+        x: 4843
+        y: 1464
+        width: 296
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51fbb00babd9a91f0800000000000000
+      internalID: -1037343339012440299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assetsRol_16
+      rect:
+        serializedVersion: 2
+        x: 3543
+        y: 72
+        width: 1697
+        height: 959
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9547eeb0dd15020800000000000000
+      internalID: 2328885525642238379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8b139dd8137d7d042bc1f3f2840f7e88
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      assetsRol_0: 2509811537650079926
+      assetsRol_1: -3156655003751305359
+      assetsRol_10: 1290735512503225915
+      assetsRol_11: -8287530790958679587
+      assetsRol_12: -5735696246991238612
+      assetsRol_13: 3029679102073233759
+      assetsRol_14: 616481089816033073
+      assetsRol_15: -1037343339012440299
+      assetsRol_16: 2328885525642238379
+      assetsRol_2: 2332017968663992868
+      assetsRol_3: -7351405375913109976
+      assetsRol_4: -1443162268203788164
+      assetsRol_5: -3432145258333675472
+      assetsRol_6: -6552469475728762730
+      assetsRol_7: 1015094464020984299
+      assetsRol_8: 954305460310823976
+      assetsRol_9: 3060370744522957743
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
