@@ -4602,7 +4602,7 @@ CapsuleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
@@ -75993,7 +75993,7 @@ Transform:
   m_GameObject: {fileID: 536149116}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -12.6, y: -37.67, z: 0}
+  m_LocalPosition: {x: -21.3, y: -28.1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -82366,7 +82366,7 @@ Transform:
   m_GameObject: {fileID: 1122940903}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 73.43, y: -4.45, z: 0}
+  m_LocalPosition: {x: 54.8, y: -4.45, z: 0}
   m_LocalScale: {x: 0.3010682, y: 0.3010682, z: 0.3010682}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -83326,8 +83326,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1178189790}
   - component: {fileID: 1178189792}
-  - component: {fileID: 1178189791}
   - component: {fileID: 1178189793}
+  - component: {fileID: 1178189794}
   m_Layer: 3
   m_Name: Circle_NPC02
   m_TagString: Untagged
@@ -83344,48 +83344,12 @@ Transform:
   m_GameObject: {fileID: 1178189789}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 42.84, y: -0.9300008, z: 0}
-  m_LocalScale: {x: 1.5, y: 1.5, z: 1}
+  m_LocalPosition: {x: 42.84, y: -1.36, z: 0}
+  m_LocalScale: {x: 0.5, y: 0.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1216500040}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!58 &1178189791
-CircleCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1178189789}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_CompositeOperation: 0
-  m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
-  m_Radius: 0.5
 --- !u!212 &1178189792
 SpriteRenderer:
   serializedVersion: 3
@@ -83435,7 +83399,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: -379122843044160088, guid: 9ab546f0ee7b72e44bb2ddbb45d4e7b2, type: 3}
+  m_Sprite: {fileID: -9026663177212088571, guid: c6732b7ccf0a1ad48a0d2b7d13a4750f, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -83465,6 +83429,43 @@ MonoBehaviour:
   - VAMOS TODOS A LA PLAZA VICTORIA
   dialoguePanel: {fileID: 763495956}
   dialogueText: {fileID: 1567294396}
+--- !u!70 &1178189794
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1178189789}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_Size: {x: 4.620719, y: 10.12}
+  m_Direction: 0
 --- !u!1 &1182059991
 GameObject:
   m_ObjectHideFlags: 0
@@ -84509,7 +84510,7 @@ Transform:
   m_GameObject: {fileID: 1267926538}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 113.36, y: 17.449999, z: 0}
+  m_LocalPosition: {x: 121.4, y: 17.449999, z: 0}
   m_LocalScale: {x: 0.5, y: 0.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -89006,7 +89007,7 @@ Transform:
   m_GameObject: {fileID: 1609635461}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.42, y: 0, z: 0}
+  m_LocalPosition: {x: 4.61, y: 0, z: 0}
   m_LocalScale: {x: 0.29289, y: 0.29289, z: 0.29289}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -90208,7 +90209,7 @@ CapsuleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
@@ -91399,8 +91400,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1740016550}
   - component: {fileID: 1740016552}
-  - component: {fileID: 1740016551}
   - component: {fileID: 1740016553}
+  - component: {fileID: 1740016554}
   m_Layer: 3
   m_Name: Circle_NPC01
   m_TagString: Untagged
@@ -91417,48 +91418,12 @@ Transform:
   m_GameObject: {fileID: 1740016549}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.36, y: -1.8200006, z: 0}
-  m_LocalScale: {x: 1.5, y: 1.5, z: 1}
+  m_LocalPosition: {x: 8.74, y: -1.61, z: 0}
+  m_LocalScale: {x: 0.4, y: 0.4, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1216500040}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!58 &1740016551
-CircleCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1740016549}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_CompositeOperation: 0
-  m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
-  m_Radius: 0.5
 --- !u!212 &1740016552
 SpriteRenderer:
   serializedVersion: 3
@@ -91508,7 +91473,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: -379122843044160088, guid: 9ab546f0ee7b72e44bb2ddbb45d4e7b2, type: 3}
+  m_Sprite: {fileID: -1779150409054952271, guid: c6732b7ccf0a1ad48a0d2b7d13a4750f, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -91537,6 +91502,43 @@ MonoBehaviour:
   - "Poniendo a su Hermano Jose Vonaparte, COMO ACTUAL REY DE ESPA\xD1A"
   dialoguePanel: {fileID: 763495956}
   dialogueText: {fileID: 1567294396}
+--- !u!70 &1740016554
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1740016549}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 2.835991, y: 0.027806282}
+  m_Size: {x: 4.479599, y: 11.814386}
+  m_Direction: 0
 --- !u!1 &1742509623
 GameObject:
   m_ObjectHideFlags: 0
