@@ -18,7 +18,7 @@ public class MenuPrincipal : MonoBehaviour
     }
     public void SeleccionarNivel()
     {
-        TransicionEscena.Instancia.IniciarTransicion("MenuNiveles");//8 es el orden de la escena
+        TransicionEscena.Instancia.IniciarTransicion("Scene_Museo");//
     }
     public void Salir()
     {
