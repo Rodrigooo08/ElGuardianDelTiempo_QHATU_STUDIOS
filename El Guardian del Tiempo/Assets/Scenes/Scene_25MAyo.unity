@@ -75661,10 +75661,10 @@ GameObject:
   m_Component:
   - component: {fileID: 474231064}
   - component: {fileID: 474231067}
-  - component: {fileID: 474231066}
   - component: {fileID: 474231065}
+  - component: {fileID: 474231068}
   m_Layer: 3
-  m_Name: Circle_NPC07 (1)
+  m_Name: Wazzard
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -75722,26 +75722,6 @@ CapsuleCollider2D:
   m_Offset: {x: 0.010986328, y: 0}
   m_Size: {x: 2.6379395, y: 7.64}
   m_Direction: 0
---- !u!114 &474231066
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 474231063}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4a87ab205bfb72f42b14c92c89234532, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Dialogue
-  dialogueLines:
-  - Hemos logrado el cabildo abierto, la primera junta de gobierno esta conformada!
-  - "La encabeza: CORNELIO SAAVEDRA \nSus secretarios son: MARIANO MORENO y JUAN
-    JOSE PASO\n"
-  - 'Los vocales seran: MANUEL BELGRANO, JUAN JOSE CASTELLI, MIGUEL DE AZCUENAGA,
-    MANUEL ALBERTI, JUAN LARREA Y DOMINGO MATEU'
-  dialoguePanel: {fileID: 763495956}
-  dialogueText: {fileID: 1567294396}
 --- !u!212 &474231067
 SpriteRenderer:
   serializedVersion: 3
@@ -75802,6 +75782,44 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
   m_BlendShapeWeights: []
+--- !u!114 &474231068
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 474231063}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0ffd3f12d8e56945bf10cc6f87a5e2f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::WazardDialogue
+  dialoguePanel: {fileID: 763495956}
+  dialogueText: {fileID: 1567294396}
+  onDialogueFinished:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 636724294}
+        m_TargetAssemblyTypeName: WazardQuiz, Assembly-CSharp
+        m_MethodName: StartQuiz
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  dialogueLines:
+  - 'Mago Sombra: Este pais no sabe lo que les espera, todos reunidos como hormigas
+    gritando LIBERTAD!'
+  - "Mago Sombra: Quien eres tu? Porque quieres proteger este tiempo... Veremos si
+    que tanto sabes de \xE9l "
+  typingTime: 0.05
+  interactKey: 101
+  quizPanel: {fileID: 0}
+  autoStartOnTrigger: 0
 --- !u!1 &495901038
 GameObject:
   m_ObjectHideFlags: 0
@@ -76759,7 +76777,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -283, y: 268}
+  m_AnchoredPosition: {x: 260, y: 314}
   m_SizeDelta: {x: 650, y: 764}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &571100101
@@ -77663,6 +77681,104 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
   m_BlendShapeWeights: []
+--- !u!1 &636724293
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 636724295}
+  - component: {fileID: 636724294}
+  - component: {fileID: 636724296}
+  m_Layer: 0
+  m_Name: LevelWazardQuiz
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &636724294
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 636724293}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4ef77465f3d10e44837ca557f947be1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::WazardQuiz
+  quizPanel: {fileID: 688893293}
+  questionText: {fileID: 1812422107}
+  counterText: {fileID: 1139623338}
+  optionButtons:
+  - {fileID: 1638115045}
+  - {fileID: 609507107}
+  - {fileID: 2076145523}
+  optionTexts:
+  - {fileID: 1629966667}
+  - {fileID: 1935658690}
+  - {fileID: 1628738632}
+  nextButton: {fileID: 1170359235}
+  normalColor: {r: 1, g: 1, b: 1, a: 1}
+  correctColor: {r: 0.35, g: 0.8, b: 0.45, a: 1}
+  wrongColor: {r: 0.85, g: 0.35, b: 0.35, a: 1}
+  allowNumberKeys: 1
+  nextKey: 13
+  inputLockDelay: 0.25
+  questions:
+  - questionText: "\xBFQu\xE9 ocurri\xF3 en el Cabildo el 25 de mayo de 1810?"
+    options:
+    - "Se jur\xF3 la primera bandera"
+    - "Se form\xF3 la Primera Junta de gobierno"
+    - "Se declar\xF3 la independencia formal"
+    correctOptionIndex: 1
+  - questionText: "\xBFQui\xE9n dirigio la Primera Junta surgida el 25 de mayo de
+      1810?"
+    options:
+    - Manuel Belgrano
+    - Jose De San Martin
+    - Cornelio Saavedra
+    correctOptionIndex: 2
+  - questionText: "\xBFA qui\xE9nes suele invisibilizar el relato tradicional del
+      25 de Mayo?"
+    options:
+    - "A los afrodescendientes de la \xE9poca"
+    - A los escribanos del virrey
+    - A los marineros del Puerto
+    correctOptionIndex: 0
+--- !u!4 &636724295
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 636724293}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 528.45685, y: 11.82874, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &636724296
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 636724293}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7eb6106ca4b7e440b28c59de578069e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::WazardEncounterBridge
+  wazardDialogue: {fileID: 474231068}
+  wazardQuiz: {fileID: 636724294}
 --- !u!1 &638574297
 GameObject:
   m_ObjectHideFlags: 0
@@ -78134,7 +78250,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &688893294
 RectTransform:
   m_ObjectHideFlags: 0
@@ -82595,6 +82711,7 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1812422106}
+  - {fileID: 1139623336}
   m_Father: {fileID: 694414502}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
@@ -82976,7 +83093,7 @@ Transform:
   m_GameObject: {fileID: 1120082536}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -100, y: -36.63, z: 0}
+  m_LocalPosition: {x: 528.9, y: 13.3, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -83138,6 +83255,143 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
   m_BlendShapeWeights: []
+--- !u!1 &1139623335
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1139623336}
+  - component: {fileID: 1139623337}
+  - component: {fileID: 1139623338}
+  m_Layer: 5
+  m_Name: Text (TMP)_Conteo
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1139623336
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1139623335}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1.288861, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1080652135}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 14, y: -376}
+  m_SizeDelta: {x: 200, y: 50}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!222 &1139623337
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1139623335}
+  m_CullTransparentMesh: 1
+--- !u!114 &1139623338
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1139623335}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.TextMeshPro::TMPro.TextMeshProUGUI
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: New Text
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2100000, guid: e73a58f6e2794ae7b1b7e50b7fb811b0, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4278190080
+  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 36
+  m_fontSizeBase: 36
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 1
+  m_HorizontalAlignment: 2
+  m_VerticalAlignment: 512
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_characterHorizontalScale: 1
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_TextWrappingMode: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 0
+  m_ActiveFontFeatures: 6e72656b
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_EmojiFallbackSupport: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: -243.54433, y: -33.270805, z: -205.49052, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!1 &1143093475
 GameObject:
   m_ObjectHideFlags: 0
@@ -83804,7 +84058,7 @@ RectTransform:
   m_GameObject: {fileID: 1170359233}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.8384973, y: 0.9672834, z: 0.82321995}
+  m_LocalScale: {x: 2.8032813, y: 1.4748825, z: 1.2552192}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 688893294}
@@ -95866,7 +96120,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 3, y: 364}
+  m_AnchoredPosition: {x: -77, y: 364}
   m_SizeDelta: {x: 618.7828, y: 75.9136}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1915639902
@@ -104450,3 +104704,4 @@ SceneRoots:
   - {fileID: 1905742964}
   - {fileID: 50341932}
   - {fileID: 76995703}
+  - {fileID: 636724295}
