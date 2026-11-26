@@ -589,7 +589,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8714539974964465912, guid: 8209c355ef3136b49aad82de56c70c8b, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -654,11 +654,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4912345647537770099, guid: 2d6a4a6d240ff7b4ea781e2bcc109089, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 225
+      value: 240
       objectReference: {fileID: 0}
     - target: {fileID: 4912345647537770099, guid: 2d6a4a6d240ff7b4ea781e2bcc109089, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 75
+      value: 63
       objectReference: {fileID: 0}
     - target: {fileID: 4948364783665066052, guid: 2d6a4a6d240ff7b4ea781e2bcc109089, type: 3}
       propertyPath: m_Transition
@@ -899,7 +899,7 @@ PrefabInstance:
     - target: {fileID: 8240892591622840136, guid: 2d6a4a6d240ff7b4ea781e2bcc109089, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: -599634608723232494, guid: b32c7d302d5d72b48a2b969db322d3a6, type: 3}
+      objectReference: {fileID: 371531610093859195, guid: bb79acae70715b94298226ccc40c419e, type: 3}
     - target: {fileID: 8895716803906726769, guid: 2d6a4a6d240ff7b4ea781e2bcc109089, type: 3}
       propertyPath: m_Transition
       value: 0
