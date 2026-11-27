@@ -129,10 +129,10 @@ TextureImporter:
       name: "Simboliza al pueblo juje\xF1o_0"
       rect:
         serializedVersion: 2
-        x: 283
-        y: 253
-        width: 974
-        height: 1007
+        x: 366
+        y: 341
+        width: 809
+        height: 840
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}

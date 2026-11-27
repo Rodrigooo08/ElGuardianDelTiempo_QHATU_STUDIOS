@@ -129,10 +129,10 @@ TextureImporter:
       name: isamiento a orillas del rio parana_0
       rect:
         serializedVersion: 2
-        x: 349
-        y: 286
-        width: 835
-        height: 961
+        x: 424
+        y: 522
+        width: 690
+        height: 662
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}

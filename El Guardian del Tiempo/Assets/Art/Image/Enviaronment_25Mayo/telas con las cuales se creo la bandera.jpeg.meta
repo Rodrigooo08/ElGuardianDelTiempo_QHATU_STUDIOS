@@ -129,10 +129,10 @@ TextureImporter:
       name: telas con las cuales se creo la bandera_0
       rect:
         serializedVersion: 2
-        x: 308
-        y: 396
-        width: 919
-        height: 725
+        x: 402
+        y: 497
+        width: 732
+        height: 513
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
