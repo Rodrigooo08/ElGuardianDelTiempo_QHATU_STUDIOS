@@ -766,15 +766,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ManagerDialogo
   storyImages:
-  - {fileID: -2646983701462968707, guid: 501c005f819177a41b83c296e9a0d627, type: 3}
-  - {fileID: -6795224924747661678, guid: 206f30d45c391c14b8001734d70d59cd, type: 3}
-  - {fileID: -4407939378682673646, guid: 0d8b0596e34f59f4caa8812161a6413e, type: 3}
-  - {fileID: -2570519009426005855, guid: fca53e2051f413b499bf9a1473c9001a, type: 3}
-  - {fileID: 9016533573215361329, guid: 436a572b897d22b419457fd8b9694d25, type: 3}
-  - {fileID: -5783048857916678176, guid: 32ff9e7c11c7fae46b8699367849fc01, type: 3}
-  - {fileID: 5007928811233310313, guid: d3ba2a5c499b00240a00c41cfd635ffd, type: 3}
-  - {fileID: 7209845557650782722, guid: a070043c4fcb85d4792e11d368967e8f, type: 3}
-  - {fileID: 3798565082302618426, guid: c6416ed770230114fb344e50d4209929, type: 3}
+  - {fileID: 5064042962874429945, guid: 3c66e6b9ae225b84ea466d2f5cce88cb, type: 3}
+  - {fileID: -2642565439938297727, guid: 55abea91ad5b3384786ed47122652624, type: 3}
+  - {fileID: 1009924861945945194, guid: 863336e7080149340a55a43cb87b3624, type: 3}
+  - {fileID: -4918711978035043455, guid: efcccaf4d0c87284c9416a5628b58441, type: 3}
+  - {fileID: 4280013073137761726, guid: 45b9f9d0c3d33794694498fe9e21f8f7, type: 3}
+  - {fileID: -1801346395289887125, guid: 63007686fe3ba894c907cb948634a7bb, type: 3}
+  - {fileID: 2604234663481811138, guid: 0dfc1d983e1a278428bdd5a46855b454, type: 3}
+  - {fileID: 9121960593920222864, guid: e4773a81397d16c4e866bb1e7e150e6d, type: 3}
+  - {fileID: 2562043565773788578, guid: 625ff56b14b6dc1479dc9db1f0d230bd, type: 3}
   narrationTexts:
   - En Jujuy, cada fecha patria es una fiesta de banderas y recuerdos... aunque pocos
     se detienen a pensar en quienes la hicieron posible.
