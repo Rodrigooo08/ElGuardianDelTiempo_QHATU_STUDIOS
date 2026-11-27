@@ -476,22 +476,22 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::BGMManagerMusic02
   sceneMusicList:
   - sceneName: MainMenu
-    musicClip: {fileID: 8300000, guid: 14ee6549be123eb42b2eefea3e608cda, type: 3}
+    musicClip: {fileID: 8300000, guid: 91aa1cd276d067b4fbf4391c37ba8474, type: 3}
     volumeMultiplier: 0.7
   - sceneName: Scene_StoryBoard
-    musicClip: {fileID: 8300000, guid: 14ee6549be123eb42b2eefea3e608cda, type: 3}
+    musicClip: {fileID: 8300000, guid: 91aa1cd276d067b4fbf4391c37ba8474, type: 3}
     volumeMultiplier: 0.7
   - sceneName: Scene_Museo
-    musicClip: {fileID: 8300000, guid: 14ee6549be123eb42b2eefea3e608cda, type: 3}
+    musicClip: {fileID: 8300000, guid: 91aa1cd276d067b4fbf4391c37ba8474, type: 3}
     volumeMultiplier: 0.7
   - sceneName: Scene_25MAyo
     musicClip: {fileID: 8300000, guid: 14ee6549be123eb42b2eefea3e608cda, type: 3}
     volumeMultiplier: 0.7
   - sceneName: Scene_Prueba_20Junio
-    musicClip: {fileID: 8300000, guid: fc328f7b1faa0a043954153a192c371b, type: 3}
+    musicClip: {fileID: 8300000, guid: f4cb3e565b738ee4d9fdefe2c14a3c2d, type: 3}
     volumeMultiplier: 0.7
   - sceneName: Scene_23Agosto
-    musicClip: {fileID: 8300000, guid: f4cb3e565b738ee4d9fdefe2c14a3c2d, type: 3}
+    musicClip: {fileID: 8300000, guid: fc328f7b1faa0a043954153a192c371b, type: 3}
     volumeMultiplier: 0.7
   - sceneName: Final
     musicClip: {fileID: 8300000, guid: 91aa1cd276d067b4fbf4391c37ba8474, type: 3}
@@ -612,7 +612,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8714539974964465912, guid: 8209c355ef3136b49aad82de56c70c8b, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
