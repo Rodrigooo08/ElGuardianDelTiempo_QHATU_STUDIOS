@@ -774,27 +774,23 @@ MonoBehaviour:
   - {fileID: -5783048857916678176, guid: 32ff9e7c11c7fae46b8699367849fc01, type: 3}
   - {fileID: 5007928811233310313, guid: d3ba2a5c499b00240a00c41cfd635ffd, type: 3}
   - {fileID: 7209845557650782722, guid: a070043c4fcb85d4792e11d368967e8f, type: 3}
-  - {fileID: -8008983683591498579, guid: 7dea9300572a63b4183834a0722a5b76, type: 3}
   - {fileID: 3798565082302618426, guid: c6416ed770230114fb344e50d4209929, type: 3}
   narrationTexts:
   - En Jujuy, cada fecha patria es una fiesta de banderas y recuerdos... aunque pocos
     se detienen a pensar en quienes la hicieron posible.
-  - "\xBFEh? \xBFQu\xE9 fue ese ruido?"
+  - "\xBFEh? \xBFLa maleta de mi abuelo? \xBFQue tendra adentro?"
   - "\xBFUn reloj de bolsillo? Pero... \xA1las agujas giran solas!"
   - "Una luz cegadora revela la verdad: una sombra se desliz\xF3 al pasado para robarse
     el protagonismo de nuestra historia."
-  - En el Cabildo, alguien ocupa el centro de la escena... mientras Saavedra y los
-    verdaderos patriotas quedan en las sombras.
-  - Alza una bandera ajena como propia, dejando a Belgrano de rodillas, olvidado
-    por su propio pueblo.
-  - "Frena el \xC9xodo Juje\xF1o para buscar una gloria falsa, arriesgando a todo
-    un pueblo ante la mirada impotente de Belgrano"
-  - "La memoria est\xE1 en peligro, Rolly. Ha llegado tu hora de restaurar la l\xEDnea
-    temporal."
-  - "\xA1Guau! \xBFD\xF3nde estoy? Esto se parece al Cabildo... pero est\xE1 completamente
-    vac\xEDo."
-  - "Recupera los fragmentos de memoria, devuelve a cada h\xE9roe su lugar y rescata
-    las historias que nadie cont\xF3."
+  - En el Cabildo, alguien quiere ocupar el centro de la escena... dejando a  Saavedra
+    y los verdaderos patriotas en las sombras.
+  - Intenta alzar una bandera ajena como propia, dejando a Belgrano de rodillas,
+    olvidado por su propio pueblo.
+  - "Busca frenar el \xC9xodo Juje\xF1o para buscar una gloria falsa, arriesgando
+    a todo un pueblo ante la mirada impotente de Belgrano"
+  - "La memoria est\xE1 en peligro, Rolly. Ha llegado tu hora de actuar y protejer
+    la historia temporal."
+  - Deten a quien intenta cambiar la historia... Debes moverte rapido
   backgroundImage: {fileID: 339667409}
   narrationTMP: {fileID: 125234762}
   imageDuration: 7
