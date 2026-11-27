@@ -20,6 +20,10 @@ public class MenuPrincipal : MonoBehaviour
     {
         TransicionEscena.Instancia.IniciarTransicion("Scene_Museo");//
     }
+    public void Creditos()
+    {
+        TransicionEscena.Instancia.IniciarTransicion("Credito");
+    }
     public void VolverMenuPrincipal()
     {
        TransicionEscena.Instancia.IniciarTransicion("MainMenu");
