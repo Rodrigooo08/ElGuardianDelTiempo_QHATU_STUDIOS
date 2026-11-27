@@ -450,7 +450,7 @@ MonoBehaviour:
     foto: {fileID: -9197373947438643815, guid: b93820cd2f1db2642ab11336bf8cd07a, type: 3}
   - nombre: Axel Ezequiel Jurado
     rol: Artista 2D - Art Concept - Sonido
-    foto: {fileID: -2766827392551166610, guid: f17638e6734445345b756430d85f2c12, type: 3}
+    foto: {fileID: -8117053448645047364, guid: ee47aa7514c2d7a4c908e8a5a6c69909, type: 3}
   - nombre: Flores Noemi Cintia
     rol: Guionista - Tester
     foto: {fileID: 6270594483944903180, guid: 2173c7683de06364d86e4893b301a416, type: 3}
@@ -459,7 +459,7 @@ MonoBehaviour:
     foto: {fileID: 8289663458441621841, guid: 3be40cf5ec90fa744bc3e57c0c9bf217, type: 3}
   - nombre: Mateo Tarifa (Marcos)
     rol: Sonidista
-    foto: {fileID: 5709759553643679270, guid: 15f60e55823844348909d83e18b7810e, type: 3}
+    foto: {fileID: -8717974779681092471, guid: f84e7245c8f399b4da9344ccc591374a, type: 3}
 --- !u!114 &1031418032
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -585,7 +585,7 @@ SpriteRenderer:
   m_MaskInteraction: 0
   m_Sprite: {fileID: -7434325437299627891, guid: d8c21ef985501bc4881705b4ea5b6c98, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 1
+  m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 1, y: 2}
@@ -5997,7 +5997,7 @@ Transform:
   m_GameObject: {fileID: 185011263}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: 70.2, y: 1.7, z: 0}
+  m_LocalPosition: {x: 70.2, y: 2.63, z: 0}
   m_LocalScale: {x: 3, y: 3, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -6050,7 +6050,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: -1
+  m_SortingOrder: 2
   m_MaskInteraction: 0
   m_Sprite: {fileID: -5058323674398668597, guid: 060beeb43a16a7d4386c2f5be4b1e4a8, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -12543,7 +12543,7 @@ Transform:
   m_GameObject: {fileID: 382010211}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 161.17, y: -0.22, z: 0}
+  m_LocalPosition: {x: 158.94, y: -0.22, z: 0}
   m_LocalScale: {x: 1.164135, y: 1.164135, z: 0.77609}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -12623,7 +12623,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Dialogue
   dialogueLines:
-  - "BELGRANO: SOLADOS!! Ante ustedes nuestra ense\xF1a patria, Juran Vencer a nuestros
+  - "BELGRANO: SOLDADOS!! Ante ustedes nuestra ense\xF1a patria. Juran Vencer a nuestros
     enemigos interiores y exteriores"
   - 'BELGRANO: Y la America del Sur sera el Templo de la Independencia y la Libertad '
   - 'BELGRANO: Digan conmigo VIVA LA PATRIA!!! '
@@ -17066,7 +17066,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &568475629
 RectTransform:
   m_ObjectHideFlags: 0
@@ -18309,7 +18309,7 @@ Transform:
   m_GameObject: {fileID: 606790747}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 657.91, y: -3.59, z: 0}
+  m_LocalPosition: {x: 637.93, y: -3.59, z: 0}
   m_LocalScale: {x: 0.6809015, y: 0.7836792, z: 0.32118}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -19110,7 +19110,7 @@ Transform:
   m_GameObject: {fileID: 637974593}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 60.37, y: 5.45, z: 0}
+  m_LocalPosition: {x: 60.37, y: 5, z: 0}
   m_LocalScale: {x: 1.5, y: 1.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -22271,7 +22271,7 @@ Transform:
   m_GameObject: {fileID: 740255255}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 51.12, y: 5.39, z: 0}
+  m_LocalPosition: {x: 51.12, y: 5.25, z: 0}
   m_LocalScale: {x: 1.5, y: 1.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -22530,7 +22530,7 @@ Transform:
   m_GameObject: {fileID: 748462332}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 175.8, y: 4.3, z: 0}
+  m_LocalPosition: {x: 160.59, y: 8.18, z: 0}
   m_LocalScale: {x: 3, y: 3, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -32602,8 +32602,8 @@ Transform:
   m_GameObject: {fileID: 1087165041}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 183.17996, y: 4.25, z: 0}
-  m_LocalScale: {x: 2, y: 2, z: 1}
+  m_LocalPosition: {x: 165.08, y: 0.78, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1020982707}
@@ -36123,7 +36123,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1199310435
 Transform:
   m_ObjectHideFlags: 0

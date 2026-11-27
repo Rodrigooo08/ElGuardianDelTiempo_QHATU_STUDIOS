@@ -214143,8 +214143,6 @@ GameObject:
   - component: {fileID: 1952847754}
   - component: {fileID: 1952847757}
   - component: {fileID: 1952847756}
-  - component: {fileID: 1952847755}
-  - component: {fileID: 1952847758}
   m_Layer: 0
   m_Name: Capsule (7)
   m_TagString: Untagged
@@ -214168,22 +214166,6 @@ Transform:
   - {fileID: 2030822864}
   m_Father: {fileID: 2063011111}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1952847755
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1952847753}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4a87ab205bfb72f42b14c92c89234532, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Dialogue
-  dialogueLines:
-  - 'Soldado: Todos los refuerzos estan combatiendo con los Realistas en Montevideo'
-  dialoguePanel: {fileID: 995698728}
-  dialogueText: {fileID: 1141213829}
 --- !u!70 &1952847756
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -214281,20 +214263,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
   m_BlendShapeWeights: []
---- !u!114 &1952847758
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1952847753}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1bab94e083dd0d246bb536fbf0ce6dd6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::NpcPromptTrigger
-  promptObject: {fileID: 0}
-  playerTag: Player
 --- !u!1 &1958298989
 GameObject:
   m_ObjectHideFlags: 0
@@ -218191,6 +218159,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Dialogue
   dialogueLines:
   - 'Soldado: Estamos solos en esto'
+  - 'Soldado: Todos los refuerzos estan combatiendo con los Realistas en Montevideo'
   dialoguePanel: {fileID: 995698728}
   dialogueText: {fileID: 1141213829}
 --- !u!70 &2135127772
