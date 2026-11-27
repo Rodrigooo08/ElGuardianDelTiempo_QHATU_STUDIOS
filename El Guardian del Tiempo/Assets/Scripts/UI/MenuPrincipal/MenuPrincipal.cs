@@ -22,7 +22,7 @@ public class MenuPrincipal : MonoBehaviour
     }
     public void Creditos()
     {
-        TransicionEscena.Instancia.IniciarTransicion("Credito");
+        TransicionEscena.Instancia.IniciarTransicion("EscenaCredito");
     }
     public void VolverMenuPrincipal()
     {

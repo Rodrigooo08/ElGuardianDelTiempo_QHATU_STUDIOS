@@ -867,6 +867,14 @@ PrefabInstance:
       propertyPath: m_SpriteState.m_HighlightedSprite
       value: 
       objectReference: {fileID: 8565323982875754689, guid: 2047388ee56a73a44a4721e80bc2c70e, type: 3}
+    - target: {fileID: 5922315518870818818, guid: 2d6a4a6d240ff7b4ea781e2bcc109089, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 164441583}
+    - target: {fileID: 5922315518870818818, guid: 2d6a4a6d240ff7b4ea781e2bcc109089, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: Creditos
+      objectReference: {fileID: 0}
     - target: {fileID: 6104857331670515421, guid: 2d6a4a6d240ff7b4ea781e2bcc109089, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -998,7 +1006,7 @@ PrefabInstance:
     - target: {fileID: 8240892591622840136, guid: 2d6a4a6d240ff7b4ea781e2bcc109089, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 371531610093859195, guid: bb79acae70715b94298226ccc40c419e, type: 3}
+      objectReference: {fileID: 969669246824174959, guid: e909b9537f0e1964aab5cc5a775b6265, type: 3}
     - target: {fileID: 8895716803906726769, guid: 2d6a4a6d240ff7b4ea781e2bcc109089, type: 3}
       propertyPath: m_Transition
       value: 2
