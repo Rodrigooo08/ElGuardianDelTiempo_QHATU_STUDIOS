@@ -213031,8 +213031,7 @@ MonoBehaviour:
       Juje\xF1o?"
     options:
     - "Establecer un nuevo puerto comercial en la costa atl\xE1ntica"
-    - "Evacuar la poblaci\xF3n y no dejar recursos \xFAtiles al avance del ej\xE9rcito
-      realista"
+    - "Evacuar a la poblaci\xF3n y quitarle recursos al enemigo."
     - Declarar la independencia de las Provincias Unidas
     correctOptionIndex: 1
   - questionText: "\xBFQu\xE9 insignia est\xE1 ligada a Jujuy y a su legado c\xEDvico?"
