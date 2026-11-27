@@ -439,7 +439,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1709070504}
-  - component: {fileID: 1709070503}
+  - component: {fileID: 1709070505}
   m_Layer: 0
   m_Name: MusicManager
   m_TagString: Untagged
@@ -447,20 +447,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &1709070503
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1709070502}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 648c7860a9a33f74fb8e23f3f869f06a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::BGMManager
-  backgroundMusic: {fileID: 8300000, guid: 14ee6549be123eb42b2eefea3e608cda, type: 3}
-  volume: 0.5
 --- !u!4 &1709070504
 Transform:
   m_ObjectHideFlags: 0
@@ -476,6 +462,43 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1709070505
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1709070502}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6728453a5c2a54090cfa0f75d6916a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::BGMManagerMusic02
+  sceneMusicList:
+  - sceneName: MainMenu
+    musicClip: {fileID: 8300000, guid: 14ee6549be123eb42b2eefea3e608cda, type: 3}
+    volumeMultiplier: 0.7
+  - sceneName: Scene_StoryBoard
+    musicClip: {fileID: 8300000, guid: 14ee6549be123eb42b2eefea3e608cda, type: 3}
+    volumeMultiplier: 0.7
+  - sceneName: Scene_Museo
+    musicClip: {fileID: 8300000, guid: 14ee6549be123eb42b2eefea3e608cda, type: 3}
+    volumeMultiplier: 0.7
+  - sceneName: Scene_25MAyo
+    musicClip: {fileID: 8300000, guid: 14ee6549be123eb42b2eefea3e608cda, type: 3}
+    volumeMultiplier: 0.7
+  - sceneName: Scene_Prueba_20Junio
+    musicClip: {fileID: 8300000, guid: fc328f7b1faa0a043954153a192c371b, type: 3}
+    volumeMultiplier: 0.7
+  - sceneName: Scene_23Agosto
+    musicClip: {fileID: 8300000, guid: f4cb3e565b738ee4d9fdefe2c14a3c2d, type: 3}
+    volumeMultiplier: 0.7
+  - sceneName: Final
+    musicClip: {fileID: 8300000, guid: 91aa1cd276d067b4fbf4391c37ba8474, type: 3}
+    volumeMultiplier: 0.7
+  fallbackMusic: {fileID: 0}
+  masterVolume: 0.75
+  stopIfNoClipAssigned: 0
 --- !u!114 &1728260907 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 6037546464949319608, guid: f61cbec4b1fe4c54fa07d6275dd8b687, type: 3}
@@ -589,7 +612,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8714539974964465912, guid: 8209c355ef3136b49aad82de56c70c8b, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -628,10 +651,34 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: SeleccionarNivel
       objectReference: {fileID: 0}
+    - target: {fileID: 1153810754165042898, guid: 2d6a4a6d240ff7b4ea781e2bcc109089, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.68768
+      objectReference: {fileID: 0}
+    - target: {fileID: 1153810754165042898, guid: 2d6a4a6d240ff7b4ea781e2bcc109089, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.68768
+      objectReference: {fileID: 0}
+    - target: {fileID: 1153810754165042898, guid: 2d6a4a6d240ff7b4ea781e2bcc109089, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.68768
+      objectReference: {fileID: 0}
+    - target: {fileID: 1153810754165042898, guid: 2d6a4a6d240ff7b4ea781e2bcc109089, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 286
+      objectReference: {fileID: 0}
+    - target: {fileID: 1153810754165042898, guid: 2d6a4a6d240ff7b4ea781e2bcc109089, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 345
+      objectReference: {fileID: 0}
     - target: {fileID: 1366862877394171288, guid: 2d6a4a6d240ff7b4ea781e2bcc109089, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: -5367801253012522680, guid: 52a4467d7bbe43746a6962b7e0e5bb3f, type: 3}
+      objectReference: {fileID: -2909646353035738391, guid: 955dc09636dbb55449a49c05701c86f9, type: 3}
+    - target: {fileID: 1366862877394171288, guid: 2d6a4a6d240ff7b4ea781e2bcc109089, type: 3}
+      propertyPath: m_Color.a
+      value: 0.8627451
+      objectReference: {fileID: 0}
     - target: {fileID: 1607941894104336133, guid: 2d6a4a6d240ff7b4ea781e2bcc109089, type: 3}
       propertyPath: m_Type
       value: 0
@@ -640,6 +687,26 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 6388455158430519106, guid: 5b971a279efe6a941ab6c1b0f66013f3, type: 3}
+    - target: {fileID: 2207919725106881853, guid: 2d6a4a6d240ff7b4ea781e2bcc109089, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.99223584
+      objectReference: {fileID: 0}
+    - target: {fileID: 2207919725106881853, guid: 2d6a4a6d240ff7b4ea781e2bcc109089, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.12437097
+      objectReference: {fileID: 0}
+    - target: {fileID: 2207919725106881853, guid: 2d6a4a6d240ff7b4ea781e2bcc109089, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -362
+      objectReference: {fileID: 0}
+    - target: {fileID: 2207919725106881853, guid: 2d6a4a6d240ff7b4ea781e2bcc109089, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -341
+      objectReference: {fileID: 0}
+    - target: {fileID: 2207919725106881853, guid: 2d6a4a6d240ff7b4ea781e2bcc109089, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -14.289
+      objectReference: {fileID: 0}
     - target: {fileID: 2690914582878453920, guid: 2d6a4a6d240ff7b4ea781e2bcc109089, type: 3}
       propertyPath: m_IsActive
       value: 1
@@ -776,6 +843,10 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 6388455158430519106, guid: 5b971a279efe6a941ab6c1b0f66013f3, type: 3}
+    - target: {fileID: 5590925021201894227, guid: 2d6a4a6d240ff7b4ea781e2bcc109089, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6517772286471330090, guid: 2d6a4a6d240ff7b4ea781e2bcc109089, type: 3}
       propertyPath: m_Pivot.x
       value: 0
