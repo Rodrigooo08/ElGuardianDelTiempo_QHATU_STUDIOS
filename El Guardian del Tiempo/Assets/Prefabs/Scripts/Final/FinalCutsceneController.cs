@@ -56,7 +56,7 @@ public class FinalCutsceneController : MonoBehaviour
         }
     };
 
-    [Header("Imágenes Estática y Final")]
+    [Header("Imágenes Estática y Apreton de manos")]
     [SerializeField] private GameObject staticSceneObject;   // Imagen estática inicial (activa al empezar)
     [SerializeField] private GameObject handshakeSceneObject; // Primer plano del apretón de manos (inactiva al empezar)
 
@@ -68,36 +68,93 @@ public class FinalCutsceneController : MonoBehaviour
         "La historia no solo se recuerda: también se construye ayudando a quienes hoy se sienten solos o excluidos.";
     [SerializeField] private float delayBeforeFinalQuote = 0.4f;
 
+    [Header("3. Panel de Créditos y Scroll")]
+    [SerializeField] private GameObject creditsPanel;
+    [SerializeField] private TMP_Text creditsText;
+    [SerializeField] private RectTransform creditsContentRect;
+    [SerializeField] private float scrollSpeed = 45f; // Píxeles por segundo
+    [SerializeField] private float startOffsetY = -500f;
+    [SerializeField] private float endOffsetY = 900f;
+    [SerializeField] private bool loopCredits = false;
+
+    [TextArea(18, 28)]
+    [SerializeField]
+    private string creditsContent =
+@"¡Gracias por jugar!
+
+Lucas Fabrego:
+Director de Proyecto
+Productor
+Programador Unity 2
+Diseñador de Juegos 1
+
+Axel Jurado:
+Artista Gráfico
+Diseñador de Sonido
+Diseñador de Niveles 2
+
+Rodrigo Fines:
+Programador Unity 1
+Diseñador de Juegos 2
+Diseñador de Niveles 1
+Especialista en Marketing
+
+Cintia Flores:
+Historiador
+Guionista
+Tester
+
+Esteban Ibáñez:
+Animador
+Diseñador de UI
+Especialista en Marketing 2";
+
     [Header("Opciones de Inicio")]
     [SerializeField] private bool playOnStart = true;
 
     public event Action OnFinalSceneCompleted;
+    private enum SceneStep
+    {
+        Dialogue,
+        FinalQuote,
+        Credits
+    }
 
+    private SceneStep currentStep = SceneStep.Dialogue;
     private int currentIndex;
     private bool isPlaying;
-    private bool isFinalBeatShown;
+    private bool isScrollingCredits;
     private Coroutine typingCoroutine;
 
     private void Start()
     {
-        if (staticSceneObject != null) staticSceneObject.SetActive(true);
-        if (handshakeSceneObject != null) handshakeSceneObject.SetActive(false);
-        if (finalQuotePanel != null) finalQuotePanel.SetActive(false);
-        if (dialoguePanel != null) dialoguePanel.SetActive(false);
+        SetInitialStates();
 
         if (playOnStart)
         {
             StartFinalScene();
         }
     }
+    private void SetInitialStates()
+    {
+        if (staticSceneObject != null) staticSceneObject.SetActive(true);
+        if (handshakeSceneObject != null) handshakeSceneObject.SetActive(false);
+        if (finalQuotePanel != null) finalQuotePanel.SetActive(false);
+        if (creditsPanel != null) creditsPanel.SetActive(false);
+        if (dialoguePanel != null) dialoguePanel.SetActive(false);
+    }
 
     private void Update()
     {
         if (!isPlaying) return;
+        if (currentStep == SceneStep.Credits && isScrollingCredits)
+        {
+            UpdateCreditsScroll();
+        }
 
         if (Input.GetKeyDown(advanceKey) || Input.GetMouseButtonDown(0))
         {
-            if (!isFinalBeatShown)
+            if (currentStep == SceneStep.Dialogue)
             {
                 string fullLine = lines[currentIndex].line;
                 if (dialogueText != null && dialogueText.text != fullLine)
@@ -109,8 +166,13 @@ public class FinalCutsceneController : MonoBehaviour
                     AdvanceDialogue();
                 }
             }
-            else
+            else if(currentStep == SceneStep.FinalQuote)
             {
+                StartCreditsPanel();
+            }
+            else if (currentStep == SceneStep.Credits)
+            {
+                // Acelera un poco o finaliza si se presiona en los créditos
                 FinishScene();
             }
         }
@@ -122,12 +184,10 @@ public class FinalCutsceneController : MonoBehaviour
 
         Time.timeScale = 1f;
         isPlaying = true;
-        isFinalBeatShown = false;
+        isScrollingCredits = false;
         currentIndex = 0;
 
-        if (staticSceneObject != null) staticSceneObject.SetActive(true);
-        if (handshakeSceneObject != null) handshakeSceneObject.SetActive(false);
-        if (finalQuotePanel != null) finalQuotePanel.SetActive(false);
+        SetInitialStates();
         if (dialoguePanel != null) dialoguePanel.SetActive(true);
 
         ShowCurrentLine();
@@ -198,7 +258,7 @@ public class FinalCutsceneController : MonoBehaviour
             typingCoroutine = null;
         }
 
-        isFinalBeatShown = true;
+        currentStep = SceneStep.FinalQuote;
 
         if (dialoguePanel != null)
         {
@@ -224,7 +284,48 @@ public class FinalCutsceneController : MonoBehaviour
             finalQuotePanel.SetActive(true);
         }
     }
+    public void StartCreditsPanel()
+    {
+        currentStep = SceneStep.Credits;
 
+        if (finalQuotePanel != null) finalQuotePanel.SetActive(false);
+        if (handshakeSceneObject != null) handshakeSceneObject.SetActive(false);
+        if (creditsPanel != null) creditsPanel.SetActive(true);
+
+        if (creditsText != null)
+            creditsText.text = creditsContent;
+
+        if (creditsContentRect != null)
+        {
+            Vector2 pos = creditsContentRect.anchoredPosition;
+            pos.y = startOffsetY;
+            creditsContentRect.anchoredPosition = pos;
+        }
+
+        isScrollingCredits = true;
+    }
+    private void UpdateCreditsScroll()
+    {
+        if (creditsContentRect == null) return;
+
+        Vector2 pos = creditsContentRect.anchoredPosition;
+        pos.y += scrollSpeed * Time.unscaledDeltaTime;
+        creditsContentRect.anchoredPosition = pos;
+
+        if (pos.y >= endOffsetY)
+        {
+            if (loopCredits)
+            {
+                pos.y = startOffsetY;
+                creditsContentRect.anchoredPosition = pos;
+            }
+            else
+            {
+                isScrollingCredits = false;
+                FinishScene();
+            }
+        }
+    }
     public void FinishScene()
     {
         if (!isPlaying) return;
