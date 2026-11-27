@@ -31,7 +31,7 @@ public class FinalCutsceneController : MonoBehaviour
         },
         new DialogueEntry
         {
-            speaker = "WAZARD",
+            speaker = "WAZZARD",
             line = "Porque creí que si me ponía en el centro como el que salva todo, por fin alguien me iba a mirar. Toda mi vida estuve ahí, detrás... esperando que notaran que existía. Y nunca pasaba."
         },
         new DialogueEntry
@@ -41,7 +41,7 @@ public class FinalCutsceneController : MonoBehaviour
         },
         new DialogueEntry
         {
-            speaker = "WAZARD",
+            speaker = "WAZZARD",
             line = "...Me llamo Wazard. Yo solo quería que, por una vez, me eligieran y me reconocieran. Que no me dejaran a un costado."
         },
         new DialogueEntry
@@ -51,7 +51,7 @@ public class FinalCutsceneController : MonoBehaviour
         },
         new DialogueEntry
         {
-            speaker = "WAZARD",
+            speaker = "WAZZARD",
             line = "...Gracias por verme, Rolly."
         }
     };
