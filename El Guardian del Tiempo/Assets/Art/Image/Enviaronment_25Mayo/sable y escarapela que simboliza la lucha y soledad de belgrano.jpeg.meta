@@ -129,10 +129,10 @@ TextureImporter:
       name: sable y escarapela que simboliza la lucha y soledad de belgrano_0
       rect:
         serializedVersion: 2
-        x: 409
-        y: 319
-        width: 718
-        height: 877
+        x: 471
+        y: 421
+        width: 603
+        height: 686
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
