@@ -32184,8 +32184,8 @@ MonoBehaviour:
     - En medio de luchas, conflictos y escasez de recursos
     - Tras firmar la independencia definitiva
     correctOptionIndex: 1
-  - questionText: "\xBFA orillas de qu\xE9 r\xEDo se asocia hist\xF3ricamente el
-      izamiento inicial de la bandera creada por Belgrano?"
+  - questionText: "\xBFA orillas de qu\xE9 r\xEDo se asocia izamiento inicial de
+      la bandera creada por Belgrano?"
     options:
     - El Rio de la Plata
     - El Rio Negro de la Patagonia
